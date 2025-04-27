@@ -654,8 +654,8 @@
 					"name": "Preface",
 					"page": 5,
 					"entries": [
-						"Five Nations. Secrets of Sarlona. Most canonical Eberron sourcebooks focus on broad concepts or regions\u2014continents, nations, the Last War. Sharn: City of Towers focuses on the greatest city in Khorvaire. In the wake of Exploring Eberron, I knew I wanted to do something different\u2014to dive deeper into a smaller region, picking an interesting point on the map where a group of adventurers could make a difference, and where they could see a town prosper (or fail!) because of their actions. I wanted to explore stories on the edge of the map instead of at the heart of it. But knowing that I wanted to tell stories on a frontier, the question was which frontier? Because in 998 YK, there are a number of interesting choices. Aundair and the Eldeen Reaches. The shard rush in Q'barra. Darguun. All of these were solid options. But ultimately, I love the nation of Droaam. I love looking at creatures that are traditionally classified as monsters and imagining the nation they could build working together. And so this book explores the region that lies between the established human kingdom of Breland and the new, rising nation of Droaam. The opportunity drawing people here isn't gold or even dragonshards. It's Droaam itself, a young nation that is coming into its own. I knew I wanted to tell a tale that draws on classic western tropes, where you could play a warforged sheriff, a small-town preacher, a retired Sentinel Marshal with skeletons in his past. But I loved that this is a place where the Ranger could be a worg and where the Bard might be a harpy\u2014where the classic fantasy elements of Breland mingle with the monstrous denizens of Droaam.",
-						"Quickstone began as an adventure\u2014a starting point for characters that wasn't Sharn or Stormreach. As we explored the story, I realized that I wanted to take it further, exploring the entire region and the stories we could tell there. As it turned out, the road to Quickstone was long and hard, filled with random encounters and unexpected challenges. I appreciate the hard work of everyone who's helped us reach the end of this journey. Wayne Chang kept the project moving forward, with help from Sumeet Vats in the final stretch. Imogen Gingell brought the adventure \"Heart of Stone\" to life, as well as developing subclasses, feats, monsters, and treasures. Luke Volker refined our writing and made sure we were in line with the revised rules in the 2024 version of the fifth edition Player's Handbook, while Sam Sorensen put all the pieces together. A host of artists contributed to the book, and I'm grateful to Carolina Cesario, Matthew Johnson, Julio Azevedo, GAOZ, Vincentius Matthew, Sylverryn, Jonathan Ng, Alexandra Coggon, Olie Bollador, and Eldon Cowgur for giving us a vision of the Western Frontier\u2014and especially to Thomas Bourdon for his amazing cover and to Marco Bernardini for his incredible map of Quickstone. Marco completed this map in 2021, and I'm so happy to finally share it with the world.",
+						"{@i Five Nations}. {@i Secrets of Sarlona}. Most canonical Eberron sourcebooks focus on broad concepts or regions\u2014continents, nations, the Last War. {@i Sharn: City of Towers} focuses on the greatest city in Khorvaire. In the wake of {@i Exploring Eberron}, I knew I wanted to do something different\u2014to dive deeper into a smaller region, picking an interesting point on the map where a group of adventurers could make a difference, and where they could see a town prosper (or fail!) because of their actions. I wanted to explore stories on the edge of the map instead of at the heart of it. But knowing that I wanted to tell stories on a frontier, the question was {@i which} frontier? Because in 998 YK, there are a number of interesting choices. Aundair and the Eldeen Reaches. The shard rush in Q'barra. Darguun. All of these were solid options. But ultimately, I love the nation of Droaam. I love looking at creatures that are traditionally classified as monsters and imagining the nation they could build working together. And so this book explores the region that lies between the established human kingdom of Breland and the new, rising nation of Droaam. The opportunity drawing people here isn't gold or even dragonshards. It's Droaam itself, a young nation that is coming into its own. I knew I wanted to tell a tale that draws on classic western tropes, where you could play a warforged sheriff, a small-town preacher, a retired Sentinel Marshal with skeletons in his past. But I loved that this is a place where the Ranger could be a worg and where the Bard might be a harpy\u2014where the classic fantasy elements of Breland mingle with the monstrous denizens of Droaam.",
+						"Quickstone began as an adventure\u2014a starting point for characters that wasn't Sharn or Stormreach. As we explored the story, I realized that I wanted to take it further, exploring the entire region and the stories we could tell there. As it turned out, the road to Quickstone was long and hard, filled with random encounters and unexpected challenges. I appreciate the hard work of everyone who's helped us reach the end of this journey. Wayne Chang kept the project moving forward, with help from Sumeet Vats in the final stretch. Imogen Gingell brought the adventure \"Heart of Stone\" to life, as well as developing subclasses, feats, monsters, and treasures. Luke Volker refined our writing and made sure we were in line with the revised rules in the 2024 version of the fifth edition {@i Player's Handbook}, while Sam Sorensen put all the pieces together. A host of artists contributed to the book, and I'm grateful to Carolina Cesario, Matthew Johnson, Julio Azevedo, GAOZ, Vincentius Matthew, Sylverryn, Jonathan Ng, Alexandra Coggon, Olie Bollador, and Eldon Cowgur for giving us a vision of the Western Frontier\u2014and especially to Thomas Bourdon for his amazing cover and to Marco Bernardini for his incredible map of Quickstone. Marco completed this map in 2021, and I'm so happy to finally share it with the world.",
 						"But there's another group of people to thank. It's taken a long time to finish the book, but for the last few years I've been running a campaign set in Quickstone for my patrons. Hundreds of people have contributed time and energy toward shaping Quickstone, and many of the NPCs you'll find here are drawn from that campaign. So thanks to everyone who has been a part of Quickstone\u2014and to you for exploring it now. And thanks to my partner Jennifer Ellis for walking from Quickstone to Silver Lake with me.",
 						"As always, this book is a vision of Eberron as I run it at my table. You may find details that don't align precisely with previous sourcebooks. It's up to you to decide which version to use\u2014or to use both as inspiration for your own ideas! From the beginning, we wanted Eberron to inspire people to create their own stories. So welcome to the Frontier\u2014I hope you'll make it your own!",
 						{
@@ -684,20 +684,20 @@
 							"skipMarks": true
 						},
 						"When people think about adventures in Eberron, they often think of distant and legendary locations\u2014the jungles of Xen'drik, the dragon-realms of Argonnessen, the hidden lands of Sarlona. Others look to the great cities of Sharn, Korth, or Fairhaven, metropolises teeming with people. But there is adventure to be had in the cracks between the great cities and distant lands. In the wake of the Last War, new nations have broken away from the yoke of Galifar, and this has created a host of unique frontiers and untapped opportunities. West of Breland, a number of different cultures have joined together as the nation of Droaam. The medusas of Cazhaak Draal have opened their stone gates, the tieflings of the Venomous Demesne have emerged from their hidden kingdom, and the infamous Daughters of Sora Kell stand above it all. Breland and the other Thronehold nations have refused to recognize Droaam\u2014and this, in turn, means that Droaam isn't obliged to respect the laws and traditions of the nations of the east. And it further means that the border between Droaam and Breland is largely a theoretical concept. This has left a wide swath of land where no one truly holds sway\u2014where each village must stand ready to defend itself from brigands and raiders, where Brelish and Droaamite may dwell side by side, where Cannith goods can be found alongside the arcane creations of the Venomous Demesne. It's a region filled with ancient ruins, some of which have been shunned for centuries\u2014often with good reason. And it is a region filled with expanding cities and newborn hamlets, where people have come in search of opportunity in spite of the danger. This is the Western Frontier.",
-						"All the themes of Eberron\u2014the concepts discussed in Eberron: Rising from the Last War\u2014are in play on the frontier. There is opportunity for pulp adventure, for fighting demon-fueled champions in ancient Dhakaani ruins or racing to stop nefarious cultists from releasing the deadly daelkyr. And there's room for noir intrigue, for schemes driven by petty greed and human weakness. The impact of the Last War can be felt here, as veterans and refugees settle in unclaimed lands and war criminals and deserters from the east hide from justice. But there are other themes that are unique to this time and place. This is an opportunity to explore the shifting balance between Droaam and Breland, to find mysteries in towns too small to show up on any map, to bring justice to places where it's long been forgotten. So strap on your wand and saddle up the tribex\u2014Quickstone awaits.",
+						"All the themes of Eberron\u2014the concepts discussed in {@i Eberron: Rising from the Last War}\u2014are in play on the frontier. There is opportunity for pulp adventure, for fighting demon-fueled champions in ancient Dhakaani ruins or racing to stop nefarious cultists from releasing the deadly daelkyr. And there's room for noir intrigue, for schemes driven by petty greed and human weakness. The impact of the Last War can be felt here, as veterans and refugees settle in unclaimed lands and war criminals and deserters from the east hide from justice. But there are other themes that are unique to this time and place. This is an opportunity to explore the shifting balance between Droaam and Breland, to find mysteries in towns too small to show up on any map, to bring justice to places where it's long been forgotten. So strap on your wand and saddle up the tribex\u2014Quickstone awaits.",
 						{
 							"type": "section",
 							"name": "Using This Book",
 							"page": 7,
 							"entries": [
 								"This book serves as a gateway to the Western Frontier, a region situated between Droaam, Breland, and the Eldeen Reaches. It provides players and Dungeon Masters with the tools needed to create characters and stories tied to this frontier. This can serve as the foundation for an entire campaign. It can be a resource for characters who come from this frontier, regardless of where their adventures take them. And it can inspire adventures that take you down the Border Road en route to other destinations. Here's an overview of the chapters in this book:",
-								"{@b This chapter} provides an overview of the frontier region, including its history, its cultures, and rules for arcane duels.",
-								"{@b Chapter 2: The Western Frontier} is a player-facing gazetteer of the region, with an overview of major communities, landmarks, and influential people.",
-								"{@b Chapter 3: Quickstone} focuses on the town of Quickstone, a Brelish mining town at the foot of the Graywall Mountains. This town makes an excellent anchor point for a Western Frontier campaign, and this chapter provides information about the people, institutions, factions, festivals, and more that can be found in Quickstone.",
-								"{@b Chapter 4: Frontier Characters} contains unique character options drawn from the Western Frontier. This includes playable species from Droaam, five backgrounds, six subclasses, and sixteen feats inspired by frontier adventures.",
-								"{@b Chapter 5: Treasures Beyond} includes new magic items and tools for a Western Frontier campaign, as well as a look at the different styles found across the region.",
-								"{@b Chapter 6: Fearsome Foes} presents new monsters and NPCs drawn from this region. From the trusty tribex to the archfey and overlords, this provides a collection of creatures that can add color to any Eberron game.",
-								"{@b Chapter 7: Heart of Stone} introduces a party of adventurers to Quickstone and the Western Frontier. It's designed for a party of five 1st-level characters, who will advance to 5th level by the end of the adventure.",
+								"{@book This chapter|FoEQuickstone|1} provides an overview of the frontier region, including its history, its cultures, and rules for arcane duels.",
+								"{@book Chapter 2: The Western Frontier|FoEQuickstone|2} is a player-facing gazetteer of the region, with an overview of major communities, landmarks, and influential people.",
+								"{@book Chapter 3: Quickstone|FoEQuickstone|3} focuses on the town of Quickstone, a Brelish mining town at the foot of the Graywall Mountains. This town makes an excellent anchor point for a Western Frontier campaign, and this chapter provides information about the people, institutions, factions, festivals, and more that can be found in Quickstone.",
+								"{@book Chapter 4: Frontier Characters|FoEQuickstone|4}, contains unique character options drawn from the Western Frontier. This includes playable species from Droaam, five backgrounds, six subclasses, and sixteen feats inspired by frontier adventures.",
+								"{@book Chapter 5: Treasures Beyond|FoEQuickstone|5} includes new magic items and tools for a Western Frontier campaign, as well as a look at the different styles found across the region.",
+								"{@book Chapter 6: Fearsome Foes|FoEQuickstone|6} presents new monsters and NPCs drawn from this region. From the trusty tribex to the archfey and overlords, this provides a collection of creatures that can add color to any Eberron game.",
+								"{@book Chapter 7: Heart of Stone|FoEQuickstone|7} introduces a party of adventurers to Quickstone and the Western Frontier. It's designed for a party of five 1st-level characters, who will advance to 5th level by the end of the adventure.",
 								{
 									"type": "inset",
 									"name": "Fifth Edition Compatibility",
@@ -707,7 +707,7 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Seven Things To Know",
 									"page": 8,
 									"entries": [
@@ -720,7 +720,7 @@
 													"type": "item",
 													"name": "1: A Contested Land",
 													"entries": [
-														"The Western Frontier is the region surrounding Orien Route 7, known to the locals as the Border Road. On maps made by House Sivis, the land west of the road belongs to Droaam. But Breland refuses to acknowledge Droaam. In the wake of the Mourning, Breland and Droaam have pulled back their armies. But there is no treaty between them. Minotaur reavers prey on Brelish settlers east of the road. Brelish brigands sack goblin villages to the west of it. And either one may try to plunder a Thunder Coach of House Orien as it makes its way to Sylbaran."
+														"The Western Frontier is the region surrounding Orien Route 7, known to the locals as the Border Road. On maps made by House Sivis, the land west of the road belongs to Droaam. But Breland refuses to acknowledge Droaam. In the wake of the Mourning, Breland and Droaam have pulled back their armies. But there is no treaty between them. Minotaur reavers prey on Brelish settlers east of the road. Brelish brigands sack goblin villages to the west of it. And either one may try to plunder a {@item Thunder Coach|FoEQuickstone} of House Orien as it makes its way to Sylbaran."
 													]
 												},
 												{
@@ -776,12 +776,12 @@
 							"name": "The Wild Frontier",
 							"page": 8,
 							"entries": [
-								"In the distant past, the lands west of Breland were a vibrant part of the goblin Empire of Dhakaan. The Six Kings monument on the northern edge of the Graywall Mountains commemorates the founding of this empire. At that time, the region was prosperous and fertile, and networks of roads and tunnels connected a host of Dhakaani towns and cities. That golden age was torn down by the daelkyr. The Xoriat Incursion wasn't a single focused invasion. It was a series of waves, each stronger and deadlier than the last. Orlaask, Avassh, and Dyrrn sank their tendrils into the region and spread corruption and chaos. Some of these were straightforward, physical conflicts\u2014hordes of dolgaunts and dolgrims supported by mind flayers and beholders clashing with disciplined Dhakaani legions. Others were more subtle, such as Avassh's creation of rageweed, a swiftly spreading plant whose pollen causes hallucinations and enhances aggression in bugbears and hobgoblins. It's not known with certainty who caused the environmental damage, but historical records show that the region now known as the Barrens was once verdant and fertile. It could be that it was the daelkyr Avassh who drained the life from the soil... or it may be that the Dhakaani themselves devastated the land in a desperate, pyrrhic effort to contain the threat posed by the daelkyr. Ultimately, the Daelkyr were defeated, but the damage was irreparable. The psychic wounds inflicted by the daelkyr festered, and civil war, chaotic upheavals, and lingering aberrations and monstrosities tore the empire apart. Within two centuries, the Barrens were a dusty region of haunted ruins. Bugbears and hobgoblins were nearly eradicated. Goblins remained, but they were soon subjugated by the scavengers and predators that emerged from the shadows\u2014feral gnolls, hungry trolls, cruel minotaurs, and far worse things. And the daelkyr aren't the only deadly powers in this place. There is an overlord bound beneath the Barrens, a force that thrives on brutal tyranny. This Horned King fueled the cruelty of the chibs, petty chieftains engaged in endless feuds. Over time, islands of civilization arose in this sea of chaos... The Venomous Demesne. The Znir Pact. The hidden changelings of Lost. The harpies of the high peaks. But these forces remained isolated and all but unknown to the people of the east, who saw only the violence of the chibs and the monstrosities roaming freely.",
+								"In the distant past, the lands west of Breland were a vibrant part of the goblin Empire of Dhakaan. The Six Kings monument on the northern edge of the Graywall Mountains commemorates the founding of this empire. At that time, the region was prosperous and fertile, and networks of roads and tunnels connected a host of Dhakaani towns and cities. That golden age was torn down by the daelkyr. The Xoriat Incursion wasn't a single focused invasion. It was a series of waves, each stronger and deadlier than the last. Orlaask, Avassh, and Dyrrn sank their tendrils into the region and spread corruption and chaos. Some of these were straightforward, physical conflicts\u2014hordes of dolgaunts and dolgrims supported by mind flayers and beholders clashing with disciplined Dhakaani legions. Others were more subtle, such as Avassh's creation of {@item rageweed|FoEQuickstone}, a swiftly spreading plant whose pollen causes hallucinations and enhances aggression in bugbears and hobgoblins. It's not known with certainty who caused the environmental damage, but historical records show that the region now known as the Barrens was once verdant and fertile. It could be that it was the daelkyr Avassh who drained the life from the soil... or it may be that the Dhakaani themselves devastated the land in a desperate, pyrrhic effort to contain the threat posed by the daelkyr. Ultimately, the Daelkyr were defeated, but the damage was irreparable. The psychic wounds inflicted by the daelkyr festered, and civil war, chaotic upheavals, and lingering aberrations and monstrosities tore the empire apart. Within two centuries, the Barrens were a dusty region of haunted ruins. Bugbears and hobgoblins were nearly eradicated. Goblins remained, but they were soon subjugated by the scavengers and predators that emerged from the shadows\u2014feral gnolls, hungry trolls, cruel minotaurs, and far worse things. And the daelkyr aren't the only deadly powers in this place. There is an overlord bound beneath the Barrens, a force that thrives on brutal tyranny. This Horned King fueled the cruelty of the {@i chibs}, petty chieftains engaged in endless feuds. Over time, islands of civilization arose in this sea of chaos... The Venomous Demesne. The Znir Pact. The hidden changelings of Lost. The harpies of the high peaks. But these forces remained isolated and all but unknown to the people of the east, who saw only the violence of the chibs and the monstrosities roaming freely.",
 								"With the rise of Galifar, Breland laid claim to all the lands west of Silver Lake. But this was just a word written on a map. Throughout the history of Galifar, there were only a handful of Brelish towns west of the Graywall Mountains. The largest of these was the town of Stubborn, which has since become Graywall; the Church of the Silver Flame established Brightstone Keep, which has since become Grimstone. But between the harsh nature of the land and the chaotic aggression of its inhabitants, the rulers of Galifar never considered it worth the effort to fully subjugate it.",
 								"Centuries passed. New civilizations arose in the Barrens; the rise of the medusa city-state of Cazhaak Draal went entirely unnoticed by the people of the east. The region was simply a land of monsters, a place for eager templars to venture on bold quests. The denizens of the region were seen as too chaotic to pose any sort of serious threat to Galifar, and the Barrens had nothing of value. Then came the Last War. Galifar shattered into five nations. And along the edges of Khorvaire new nations seized the opportunity. The Mror dwarves declared independence. The Tairnadal elves and Ghaal'dar goblins laid claim to Valenar and Darguun. And in 986 YK, the Daughters of Sora Kell sacked the city of Stubborn and issued an ultimatum to the survivors. {@i \"Tell your rulers there's a new power in the west,\"} Sora Katra told the people of Stubborn. {@i \"What you've called the Barrens, we now name Droaam. The land beyond the Graywall and below the Byeshk belongs to our people. Withdraw yours quickly and respect our claim; next time, there will be no survivors.\"}",
 								"The next decade saw a series of dramatic conflicts between Brelish soldiers under the leadership of Count ir'Blis and Droaamite forces. Breland struck at Turakbar's Fist. Droaamites razed villages around Orcbone. The struggle came to an end with the Mourning. As the nations of Khorvaire came together to craft the Treaty of Thronehold, the Daughters of Sora Kell sought a seat at the table. Their petition was denied. The people of the east wouldn't accept a nation of monsters; they were certain it would collapse within a few years. But in 998 YK, Droaam is stronger than ever... and people know it. The dragonmarked houses smell opportunity. Tharashk has found dragonshards and other valuable resources. Brelish nobles are offering veterans and refugees land in this region, drawing a new wave of settlers.",
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "A Barren Land",
 									"page": 10,
 									"entries": [
@@ -852,7 +852,7 @@
 											"type": "item",
 											"name": "The Long Road",
 											"entries": [
-												"The Border Road supports a steady stream of commerce. A party of adventurers is hired to guard an Orien Thunder Coach transporting something secret and vital from Ardev to Sylbaran. Along the way they'll deal with trouble from both sides of the road, and from Ashbound druids as well. What is their hidden cargo?"
+												"The Border Road supports a steady stream of commerce. A party of adventurers is hired to guard an Orien {@item Thunder Coach|FoEQuickstone} transporting something secret and vital from Ardev to Sylbaran. Along the way they'll deal with trouble from both sides of the road, and from Ashbound druids as well. What is their hidden cargo?"
 											]
 										},
 										{
@@ -861,11 +861,12 @@
 											"entries": [
 												"A sage discovers the location of a legendary Dhakaani treasure vault hidden beneath the Barrens. Depending on their nature, the adventurers could be driven by greed or because it belongs in a museum! The adventurers must race across the frontier, finding clues to the location of the vault while staying one step ahead of the Order of the Emerald Claw. But what happens when they enter the tomb and find that a squad of Khech Volaar dar are already there? Will the adventurers help the Dhakaani reclaim their ancestral relics, or will they claim the treasures themselves?"
 											]
-										}
+										},
+										"All of these are fine stories that give adventurers a reason to visit the region\u2014to find the criminal, to claim the treasure, to kill the possessed warlord. The adventure at the end of this book, \"Heart of Stone,\" gives adventurers an introduction to Quickstone and a grounding in the region, and if they wish, they can move elsewhere when it's done. But there is another option: using the Western Frontier as the foundation for an entire campaign. If that's a path you want to follow, there are a few steps to follow. Think about the {@i themes} you want to explore in the campaign. Consider the {@i roles} that characters can play. And choose a {@i location} that will best serve that story."
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Campaign Themes",
 									"page": 11,
 									"entries": [
@@ -943,7 +944,7 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Character Roles",
 									"page": 12,
 									"entries": [
@@ -1027,7 +1028,7 @@
 													"type": "item",
 													"name": "The Chronicler",
 													"entries": [
-														"You're an investigative reporter for the Sharn Inquisitive or the Korranberg Chronicle, and you know there's a story out here. Are you chasing a particular subject, or just waiting for a compelling story to appear?"
+														"You're an investigative reporter for the {@i Sharn Inquisitive} or the {@i Korranberg Chronicle}, and you know there's a story out here. Are you chasing a particular subject, or just waiting for a compelling story to appear?"
 													]
 												},
 												{
@@ -1090,7 +1091,7 @@
 													"type": "item",
 													"name": "What do you believe?",
 													"entries": [
-														"This could be the character's religion. However, even if they don't have faith in the divine, they might care about a nation (helping Cyran refugees), a political cause (abolishing the Brelish monarchy), or the advancement of Droaam."
+														"This could be the character's religion. However, even if they don't have faith in the divine, they might care about a nation {@i (helping Cyran refugees)}, a political cause {@i (abolishing the Brelish monarchy)}, or the advancement of Droaam."
 													]
 												},
 												{
@@ -1113,17 +1114,17 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Location",
 									"page": 14,
 									"entries": [
-										"The Home and Hearth theme gives the adventurers roots in a community\u2014something that works well with character concepts like the Sheriff, the Preacher, and the Innkeeper. A simple option is to use the town of Quickstone, which is described in chapter 3; simply replace the existing NPCs with characters who take on their roles. On the other hand, the party could create an entirely new village or town that lies along the Border Road. The party could even have a mobile base of operations, serving as the crew of an Orien Thunder Coach (see chapter 5) that's traveling back and forth between Ardev and Sylbaran\u2014essentially, a ship on wheels.",
+										"The {@i Home and Hearth} theme gives the adventurers roots in a community\u2014something that works well with character concepts like the Sheriff, the Preacher, and the Innkeeper. A simple option is to use the town of Quickstone, which is described in chapter 3; simply replace the existing NPCs with characters who take on their roles. On the other hand, the party could create an entirely new village or town that lies along the Border Road. The party could even have a mobile base of operations, serving as the crew of an Orien {@item Thunder Coach|FoEQuickstone} (see chapter 5) that's traveling back and forth between Ardev and Sylbaran\u2014essentially, a ship on wheels.",
 										"As the DM, work with the players to add personal details to the location you choose. If it's a new village, what's its name? What's unique about the location? Is there a useful manifest zone? A shrine? A cemetery? When using Quickstone, players can add details to existing locations. Which tavern do they drink at, and why? Do they sympathize with the Grizzlies or the Mourners? How do they feel about the rise of Main Street and the upcoming Kundarak enclave? For each character, who's their best friend in the town, and who's their worst rival? The goal is to give each character a connection to the community\u2014and to give the players a reason to care about it.",
 										"If the players aren't interested in having a home base, the DM can still choose a location or two that are particularly relevant for them. What's the tavern they always stop at when they're traveling on the Border Road? Who's their most useful contact in Graywall? Who's the bard they keep meeting on the road? Again, this serves to give the players a connection to the region and provides the DM with some hooks they can use over the course of the campaign."
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Wealth and Power",
 									"page": 14,
 									"entries": [
@@ -1133,7 +1134,7 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Life and Death",
 									"page": 14,
 									"entries": [
@@ -1153,19 +1154,19 @@
 													"type": "item",
 													"name": "Safety in Numbers",
 													"entries": [
-														"Characters automatically stabilize if they have an ally within 60 feet, with no action required. The only way for a character to die is through massive damage or if all characters in a scene are reduced to 0 Hit Points; you live together or die together. However, failure has consequences! A character reduced to 0 Hit Points suffers a Scar, as described below. In this model, death is rare, but characters still suffer some form of loss due to their failure."
+														"Characters automatically stabilize if they have an ally within 60 feet, with no action required. The only way for a character to die is through massive damage or if all characters in a scene are reduced to 0 Hit Points; you live together or die together. However, failure has consequences! A character reduced to 0 Hit Points suffers a {@b {@i Scar}}, as described below. In this model, death is rare, but characters still suffer some form of loss due to their failure."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Nothing but Scars",
 													"entries": [
-														"A character automatically stabilizes upon reaching 0 Hit Points. The only way for a character to die is if they agree that their character should die\u2014they're making a heroic sacrifice, or it otherwise feels appropriate to the story. However, any character reduced to 0 Hit Points suffers a Scar."
+														"A character automatically stabilizes upon reaching 0 Hit Points. The only way for a character to die is if they agree that their character should die\u2014they're making a heroic sacrifice, or it otherwise feels appropriate to the story. However, any character reduced to 0 Hit Points suffers a {@b {@i Scar}}."
 													]
 												}
 											]
 										},
-										"A secondary option if players don't want their characters to be at risk of death but dramatically want it to feel like it's on the table is the Miraculous Return. Characters can die as per the standard rules, but a short time after death, they will return: the question is how. A few possibilities...",
+										"A secondary option if players don't want their characters to be at risk of death but dramatically want it to {@i feel} like it's on the table is the {@b Miraculous Return}. Characters can die as per the standard rules, but a short time after death, they will return: the question is {@i how}. A few possibilities...",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -1188,7 +1189,7 @@
 													"type": "item",
 													"name": "Sora Teraza",
 													"entries": [
-														"The blind hag also has the power to raise the dead, though she rarely uses this gift. If she does so, it means that there is something the character still has to do. But is this destiny heroic or tragic?"
+														"The blind hag also has the power to raise the dead, though she rarely uses this gift. If she does so, it means that there is {@i something} the character still has to do. But is this destiny heroic or tragic?"
 													]
 												},
 												{
@@ -1225,7 +1226,7 @@
 							"entries": [
 								"The Western Frontier is a contested region caught between Breland, Droaam, and the Eldeen Reaches. Travelers and merchants from all three of these nations mingle on the Border Road and interact in villages and towns. Here are a few details about how the experience of everyday life differs from that of the Five Nations.",
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "East and West",
 									"page": 15,
 									"entries": [
@@ -1233,11 +1234,11 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Languages",
 									"page": 16,
 									"entries": [
-										"Common and Goblin are the two primary languages spoken on the Western Frontier. The Dhakaani Empire established Goblin in the region, and it has long been the lingua franca of the different cultures of the Barrens. The Brelish brought Common from the east, and the Daughters of Sora Kell encourage Droaamites to learn it; they've worked with House Tharashk to establish schools in the major Droaamite cities that teach Common, as well as fostering literacy in both Common and Goblin. So knowing one of these two languages goes a long way on the frontier, and most denizens of Droaam should have Goblin in their stat block in place of Giant or Orc. However, there are a number of other languages that can be heard on the frontier. Anyone with the ability to cast a Druid spell can learn Druidic, and travelers from the Eldeen Reaches may speak in this language; Greensingers often know Sylvan as well. The Orc language has largely been lost, as shown by the fact that the major orc cultures\u2014the Gaa'aram and Gaa'ran\u2014are named in Goblin; however, there could be isolated communities where it is still spoken. The mages of the Venomous Demesne learn Infernal as a trade skill, and may curse in this tongue or use it to speak privately.",
+										"Common and Goblin are the two primary languages spoken on the Western Frontier. The Dhakaani Empire established Goblin in the region, and it has long been the lingua franca of the different cultures of the Barrens. The Brelish brought Common from the east, and the Daughters of Sora Kell encourage Droaamites to learn it; they've worked with House Tharashk to establish schools in the major Droaamite cities that teach Common, as well as fostering literacy in both Common and Goblin. So knowing one of these two languages goes a long way on the frontier, and most denizens of Droaam should have Goblin in their stat block in place of Giant or Orc. However, there are a number of other languages that can be heard on the frontier. Anyone with the ability to cast a Druid spell can learn Druidic, and travelers from the Eldeen Reaches may speak in this language; Greensingers often know {@language Sylvan|XPHB} as well. The Orc language has largely been lost, as shown by the fact that the major orc cultures\u2014the Gaa'aram and Gaa'ran\u2014are named in Goblin; however, there could be isolated communities where it is still spoken. The mages of the Venomous Demesne learn Infernal as a trade skill, and may curse in this tongue or use it to speak privately.",
 										"These languages are drawn from the standard rules of D&D. However, there are a few more languages that could exist on the Western Frontier if the DM wishes to add complexity. The issue is that these optional languages are extremely narrow and will be almost useless in most situations. Because of this, if the DM decides to use these four languages, they may wish to give them to appropriate characters as a free benefit in addition to any other languages they may know. These languages are:",
 										{
 											"type": "list",
@@ -1286,7 +1287,7 @@
 													"type": "row",
 													"style": "row-indent-first",
 													"row": [
-														"Daelkyr (Depp Speech)",
+														"Daelkyr (Deep Speech)",
 														"Aberrations, cultists"
 													]
 												},
@@ -1430,7 +1431,7 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Frontier Justice",
 									"page": 18,
 									"entries": [
@@ -1460,7 +1461,7 @@
 															"type": "entries",
 															"name": "Vigilantes and Dueling",
 															"entries": [
-																"Adventurers will often find themselves between Brelish law and Droaamite justice. How they handle this is a defining aspect of a Western Frontier campaign. Will they take the ruthless path of vengeance? Or will they try to uphold the principles of Galifar, even when they have to do it alone? Just because they can kill these cultists without consequences, is that the best answer? Ultimately, it's up to the DM to decide whether to encourage ruthless justice or to explore the broader consequences. When the adventurers fight a stone cult, if they do manage to keep the cultists alive and sever their ties to the cult rather than just killing them... maybe the family of a cultist invites them over for dinner in the next session. Maybe a cultist gives them an uncommon magic item\u2014a family heirloom\u2014in thanks for their freedom. Conversely, if adventurers do ruthlessly slay their enemies, they may see the consequences of Droaamite justice, as the friends or kin of their victims hunt them down, spread stories about them, or otherwise make life difficult. One such consequence is that an adventurer could be challenged to a duel. Overall, most people on the Western Frontier support dueling if the cause is seen as justified. If a wandslinger comes to town and declares that an adventurer killed his brother in a cowardly fashion and that the adventurer is currently wearing the brother's amulet, stolen from his corpse\u2014if the adventurer refuses to duel or cheats to win, they could quickly acquire an infamous reputation. And if adventurers truly become villains... Well, perhaps another group of adventurers will show up to call them to account."
+																"Adventurers will often find themselves between Brelish law and Droa amite justice. How they handle this is a defining aspect of a Western Frontier campaign. Will they take the ruthless path of vengeance? Or will they try to uphold the principles of Galifar, even when they have to do it alone? Just because they can kill these cultists without consequences, is that the best answer? Ultimately, it's up to the DM to decide whether to encourage ruthless justice or to explore the broader consequences. When the adventurers fight a stone cult, if they do manage to keep the cultists alive and sever their ties to the cult rather than just killing them... maybe the family of a cultist invites them over for dinner in the next session. Maybe a cultist gives them an uncommon magic item\u2014a family heirloom\u2014in thanks for their freedom. Conversely, if adventurers do ruthlessly slay their enemies, they may see the consequences of Droaamite justice, as the friends or kin of their victims hunt them down, spread stories about them, or otherwise make life difficult. One such consequence is that an adventurer could be challenged to a duel. Overall, most people on the Western Frontier support dueling if the cause is seen as justified. If a wandslinger comes to town and declares that an adventurer killed his brother in a cowardly fashion and that the adventurer is currently wearing the brother's amulet, stolen from his corpse\u2014if the adventurer refuses to duel or cheats to win, they could quickly acquire an infamous reputation. And if adventurers truly become villains... Well, perhaps another group of adventurers will show up to call them to account."
 															]
 														},
 														{
@@ -1814,7 +1815,7 @@
 									]
 								},
 								{
-									"type": "section",
+									"type": "entries",
 									"name": "Droaam Rising",
 									"page": 24,
 									"entries": [
@@ -2730,7 +2731,7 @@
 												{
 													"type": "list",
 													"items": [
-														"Orien coaches, caravans, and couriers. Orien stagecoaches carry passengers, while caravans focus on freight transport. The most impressive vehicles on the road are Orien Thunder Coaches, massive carriages pulled by tribex. Details on these can be found in chapter 5.",
+														"Orien coaches, caravans, and couriers. Orien stagecoaches carry passengers, while caravans focus on freight transport. The most impressive vehicles on the road are Orien {@item Thunder Coach|FoEQuickstone|Thunder Coaches}, massive carriages pulled by tribex. Details on these can be found in chapter 5.",
 														"Independent merchants from Droaam, Breland, or the Eldeen Reaches, often catering to the communities along the road.",
 														"The forces of the law\u2014Breland's Westwind Riders, the King's Assessors (who collect taxes for the Brelish crown), or Droaamite peacekeepers. When it comes to peacekeepers, the Znir gnolls are generally disciplined and reliable, but other Droaamite forces can potentially be just as dangerous as the bandits they're supposed to deter.",
 														"Entertainers\u2014classic bards, bringing news and entertainment to the communities along the road\u2014or missionaries, spreading the good word of the Silver Flame, the Sovereign Host, or even the Eldeen druidic sects along the frontier.",
@@ -4376,13 +4377,13 @@
 													"type": "list",
 													"items": [
 														"The population of the Venomous Demesne is mostly human, though \"mostly human\" is a good way to describe the people of the Demesne; most have some minor fiendish features (unusual eyes, small horns, patches of strange skin, an unnatural odor). Around five percent of the population are full tieflings.",
-														"The society of the Demesne is governed by the four mazes: The Maze of Mysteries, the Maze of Promises, the Maze of Making and the Maze of Faith. The Demesne is ruled by the Council of Four, who represent the mazes. The mazes and Demesne society are discussed in more detail in the tiefling section of chapter 1.",
+														"The society of the Demesne is governed by the four mazes: The Maze of Mysteries, the Maze of Promises, the Maze of Making and the Maze of Faith. The Demesne is ruled by the Council of Four, who represent the mazes. The mazes and Demesne society are discussed in more detail in the {@book tiefling section of chapter 1|FoEQuickstone|1|Tieflings}.",
 														"The aesthetic of the Demesne is distinctly alien and its buildings couldn't exist without the use of magic; architecture involves levitation, transmutation, and the use of teleportation and extradimensional spaces.",
 														"While it is small\u2014in part because of strict population control\u2014the Venomous Demesne is significantly more advanced than the Five Nations. Each maze pursues a different branch of mystical science, and the fruits of that work are applied across the Demesne. Overall, spell effects of up to 5th level can be seen at work in daily life and effects of up to 7th level can be encountered. Teleportation Circles link different parts of the Demesne. Dead nobles can be resurrected in the Maze of Faith. Planar travel isn't common, but the Maze of Promises deals with fiends (mostly Daanvian), efreet, archfey, and other planar powers. Common magic items truly are common, and the Maze of Making can produce rare or even legendary items\u2014though they lack the industrial capacity of House Cannith and can't mass-produce these things."
 													]
 												},
 												"That last point is important. The Demesne is more advanced than the Five Nations, but it is limited in many ways. Much of its magic and arcane science is tied to disturbing traditions, ancient pacts, and the blood of the tieflings themselves; it's not simply that the mazes refuse to share their power with non-tieflings, it's that they can't share their power with non-tieflings. Practices that seem cruel and unusual to outsiders are necessary to generate and maintain the powers they rely on. It is a place of arcane wonders, but the deeper you dig, the more disturbing it becomes.",
-												"Given the isolationist nature of the Demesne, this is the extent of common knowledge about it. Smugglers are always keen to acquire goods from the Venomous Demesne\u2014whether drugs, arcane weapons, or simply curious trinkets\u2014but few will ever see the Demesne itself. More details about the culture of the Demesne and its inhabitants can be found in the Tiefling section of chapter 1.",
+												"Given the isolationist nature of the Demesne, this is the extent of common knowledge about it. Smugglers are always keen to acquire goods from the Venomous Demesne\u2014whether drugs, arcane weapons, or simply curious trinkets\u2014but few will ever see the Demesne itself. More details about the culture of the Demesne and its inhabitants can be found in {@book the Tiefling section of chapter 1|FoEQuickstone|1|Tieflings}.",
 												{
 													"type": "entries",
 													"name": "Interesting Things About The Venomous Demesne",
@@ -6568,16 +6569,34 @@
 					"page": 147,
 					"entries": [
 						{
+							"type": "quote",
+							"entries": [
+								"A warforged, a gnoll, and a gargoyle walk into a bar\u2014you'd think one of them would have seen it! An old joke, I know... but it's all too true in this place. Here at Unicorn Point, I see all types. Last week I had a wagon in from Sylbaran, with a Warden traveling with all these little talking shrubs. Just yesterday it was a minotaur with a shard of black glass sticking out of his heart, and I swear that shard was moaning. And that woman over there? That's Three Widow Jane, the fastest wand in Breland. And from the way she's looking at that Tharashk Bloodhound... I've got a feeling you're going to see just how fast she is."
+							],
+							"by": "Jasco d'Orien, caravan master"
+						},
+						"The Western Frontier lies between Breland, Droaam, and the Eldeen Reaches. This chapter includes character options that draw on all of those regions. An adventurer from Droaam could be a Harpy, a Gargoyle, or another species common in that nation. A character from the Eldeen Reaches could be a Greensinger Initiate or a Ranger with ties to the Wardens of the Woods. A traveler from Breland could be a dashing Wandslinger or a priest of the Three Faces of Coin. This chapter includes all of these and many more, providing new subclasses, feats, species, and backgrounds for characters to choose from. While these options are well suited to adventurers on the Frontier, they could be found anywhere in Eberron. This chapter also includes a few iconic elements of Eberron\u2014dragonmarks, the warforged\u2014that have been updated to work with the latest edition of Dungeons & Dragons.",
+						{
 							"type": "section",
 							"name": "Subclasses",
 							"page": 147,
 							"entries": [
+								"This section presents six additional archetypes for the classes found in the 2024 version of the fifth edition Player's Handbook.",
 								{
 									"type": "section",
 									"name": "Barbarian: Path of the Demonshard",
 									"page": 148,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoEQuickstone",
+											"name": "Demonshard",
+											"className": "Barbarian",
+											"classSource": "XPHB",
+											"page": 149,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6585,7 +6604,16 @@
 									"name": "Bard: College of Wands",
 									"page": 149,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoEQuickstone",
+											"name": "Wands",
+											"className": "Bard",
+											"classSource": "XPHB",
+											"page": 149,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6593,7 +6621,16 @@
 									"name": "Cleric: Commerce Domain",
 									"page": 150,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoEQuickstone",
+											"name": "Commerce",
+											"className": "Cleric",
+											"classSource": "XPHB",
+											"page": 150,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6601,7 +6638,16 @@
 									"name": "Ranger: Bloodhound",
 									"page": 152,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoeQuickstone",
+											"name": "Bloodhound",
+											"className": "Ranger",
+											"classSource": "XPHB",
+											"page": 152,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6609,7 +6655,16 @@
 									"name": "Sorcerer: Nemesis Sorcery",
 									"page": 153,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoEQuickstone",
+											"name": "Nemesis",
+											"className": "Sorcerer",
+											"classSource": "XPHB",
+											"page": 153,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6617,7 +6672,16 @@
 									"name": "Warlock: Stone Sovereign Patron",
 									"page": 154,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"prop": "subclass",
+											"source": "FoEQuickstone",
+											"name": "Stone Sovereign",
+											"className": "Warlock",
+											"classSource": "XPHB",
+											"page": 154,
+											"collapsed": true
+										}
 									]
 								}
 							]
@@ -6632,7 +6696,9 @@
 									"name": "Dragonmarked Bravo",
 									"page": 156,
 									"entries": [
-										""
+										"The Western Frontier draws characters from all backgrounds. There are Soldiers who fought in the Last War, Hermits in the hills, Merchants plying their trades, Farmers working the land, and much more. However, there are a few backgrounds that are especially appropriate for Frontier campaigns\u2014or Eberron games in general.",
+										"Three of these backgrounds provide a character with the Lesser Dragonmark feat. To manifest a dragonmark, you must have a direct blood tie to a Dragonmarked House. A Dragonmarked Bravo or Scion was raised as part of a dragonmarked house, while a Dragonmarked Foundling is someone who has a blood tie to a house and who has manifested the house mark, but who was born and raised outside of the house. The Lesser Dragonmark feat has prerequisites, and a character who takes a Dragonmarked background must meet those prerequisites. So, a halfling who takes Dragonmarked Bravo gains the Lesser Dragonmark feat, but they must choose either the Mark of Healing or the Mark of Hospitality, the dragonmarks that are available to halflings. These details are summarized on the Dragonmarked Background table and the Lesser Dragonmark Benefit table later in this chapter. Keep in mind, a character doesn't need to have a dragonmark to have a background connection to a Dragonmarked house! A character with the Scribe background may have worked for House Sivis. A character with the Guard background could have been a Deneith Blademark bodyguard or served in a Kundarak bank. These backgrounds are specifically for characters that possess dragonmarks.",
+										"The Magewright and Wandslinger backgrounds reflect the widespread nature of magic in Eberron. Each of these backgrounds provides access to the Magic Initiate feat. While there's no concrete limitation on the spells and cantrips a character can take, thematically a Magewright should focus on practical, peaceful magic\u2014Alarm, Identify, Mending, Prestidigitation\u2014while a Wandslinger should have more aggressive magic, such as {@spell Fire Bolt|XPHB}, {@spell Magic Missile|XPHB}, {@spell Mage Armor|XPHB}, or {@spell Thunderclap|XPHB}."
 									]
 								},
 								{
@@ -6640,7 +6706,14 @@
 									"name": "Dragonmarked Foundling",
 									"page": 156,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "background",
+											"source": "FoEQuickstone",
+											"name": "Dragonmarked Foundling",
+											"page": 156,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6648,7 +6721,14 @@
 									"name": "Dragonmarked Scion",
 									"page": 156,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "background",
+											"source": "FoEQuickstone",
+											"name": "Dragonmarked Scion",
+											"page": 156,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6656,7 +6736,14 @@
 									"name": "Magewright",
 									"page": 157,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "background",
+											"source": "FoEQuickstone",
+											"name": "Magewright",
+											"page": 157,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6664,7 +6751,14 @@
 									"name": "Wandslinger",
 									"page": 157,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "background",
+											"source": "FoEQuickstone",
+											"name": "Wandslinger",
+											"page": 157,
+											"collapsed": true
+										}
 									]
 								}
 							]
@@ -6674,12 +6768,31 @@
 							"name": "Species",
 							"page": 157,
 							"entries": [
+								"Seven species are presented in this section in alphabetical order: {@race Gargoyle|FoEQuickstone}, {@race Gnoll|FoEQuickstone}, {@race Harpy|FoEQuickstone}, {@race Medusa|FoeQuickstone}, {@race Eberron|FoEQuickstone|Tiefling}, {@race Warforged|FoEQuickstone}, and {@race Worg|FoEQuickstone}.",
 								{
 									"type": "section",
 									"name": "Gargoyle",
 									"page": 157,
 									"entries": [
-										""
+										"Gargoyles are indistinguishable from stone statues... until they move. In Eberron, the first gargoyles were carved by Dhakaani goblins, but it was the daelkyr Orlassk who brought them to life. The oldest gargoyles have been in a state of torpor for thousands of years. Now they have risen to carve out a place of their own in the new nation of Droaam.",
+										"Gargoyles are humanoids carved from stone. The horned, winged form often associated with the gargoyle is a common design; in Eberron the Dhakaani placed these fierce figures on fortresses. However, gargoyles don't have to have horns or wings, and they can alter their form over time. Gargoyles reproduce by imbuing a sliver of their life force into a stone and burying it in gravel; this seed assimilates mass from the loose stone and builds its final form.",
+										"Gargoyles have no need of food or drink. They are nearly immune to the passage of time and can remain standing still indefinitely. For any gargoyle, a fundamental question is why they choose to move at all. What drives them? There are a few common archetypes. Seekers are driven by curiosity, and love seeing new places and learning new things. Guardians devote themselves to protecting a person, place, or concept. Movers enjoy motion itself\u2014flight, fighting, dancing\u2014and often become scouts or soldiers. Thinkers are rarely seen, because they have the least reason to actually move; they live to ponder philosophies and ideas. A statue in a temple or a library could be a gargoyle priest or sage, lost in contemplation.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Gargoyle",
+											"page": 157,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/gargoyle.webp"
+											},
+											"credit": "Carolina Cesario"
+										}
 									]
 								},
 								{
@@ -6687,7 +6800,16 @@
 									"name": "Gnoll",
 									"page": 158,
 									"entries": [
-										""
+										"Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.",
+										"Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Gnoll",
+											"page": 158,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6695,7 +6817,24 @@
 									"name": "Harpy",
 									"page": 159,
 									"entries": [
-										""
+										"Medusas are infamous across Khorvaire for the deadly power of their petrifying gaze. The medusas of Cazhaak Draal are one of the most powerful forces within Droaam, renowned both for their remarkable stonework and their deep devotion to the Dark Six; the Cazhaak Creed has become the most widespread religion in Droaam. Medusas tend to be calm and calculating, useful traits when a single glance can have devastating consequences.",
+										"Medusa appearance varies by bloodline; some have scaled skin while at a glance others appear to be carved from stone. All medusas have a mane of writhing serpents, and they can use this mane to observe their surroundings even when they are blindfolded or have their main eyes closed. The petrifying gaze that medusa are famous for is something that develops over time. Young medusas have a weaker form known as the Gray Gaze, which eventually evolves into the Shadowswift Gaze that can petrify creatures in an instant.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Harpy",
+											"page": 159,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/harpy.webp"
+											},
+											"credit": "Júlio Azevedo"
+										}
 									]
 								},
 								{
@@ -6703,7 +6842,24 @@
 									"name": "Medusa",
 									"page": 160,
 									"entries": [
-										""
+										"Medusas are infamous across Khorvaire for the deadly power of their petrifying gaze. The medusas of Cazhaak Draal are one of the most powerful forces within Droaam, renowned both for their remarkable stonework and their deep devotion to the Dark Six; the Cazhaak Creed has become the most widespread religion in Droaam. Medusas tend to be calm and calculating, useful traits when a single glance can have devastating consequences.",
+										"Medusa appearance varies by bloodline; some have scaled skin while at a glance others appear to be carved from stone. All medusas have a mane of writhing serpents, and they can use this mane to observe their surroundings even when they are blindfolded or have their main eyes closed. The petrifying gaze that medusa are famous for is something that develops over time. Young medusas have a weaker form known as the Gray Gaze, which eventually evolves into the Shadowswift Gaze that can petrify creatures in an instant.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Medusa",
+											"page": 160,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/medusa.webp"
+											},
+											"credit": "Matthew Johnson"
+										}
 									]
 								},
 								{
@@ -6711,7 +6867,23 @@
 									"name": "Tiefling",
 									"page": 160,
 									"entries": [
-										""
+										"Tieflings are rarely seen in the Five Nations, and are often treated with fear and suspicion when they are. Rather than being directly descended from fiends, the most common tieflings of Eberron are touched by the malefic energies of one of the planes. Because of this, their appearance varies dramatically. Mabaran tieflings are reminiscent of incubi and succubi, with sinister beauty and small horns and fangs. Shavaran tieflings have scaly skin and horns of steel, while Risian tieflings are coated in frost and have horns of ice. Others don't have horns at all. Dolurrhi tieflings usually have gray skin and pale eyes, with tendrils of whispering mist clinging to their skin. Kythrian tieflings slowly change in appearance, with every aspect changing in time. Such plane-touched tieflings don't pass these traits on to their children; the birth of a tiefling is tied to the flow of planar energies, most often occurring when a child is conceived in a manifest zone at a key point in a plane's coterminous cycle. Tieflings are only created by the malefic influence of a plane, and there are no tieflings tied to Daanvi, Irian, Lamannia, or Syrania, or Thelanis. Popular stories say that tieflings are cursed and that they draw the negative powers of the plane wherever they go; while this is largely just superstition, it can make life difficult for tieflings.",
+										"Planar tieflings don't pass their traits to their offspring, which is why tieflings are rare in the Five Nations. But there are two other types of tiefling in Khorvaire. The Sakah are said to be descended from rakshasa, fiends who infused their immortal essence into mortal bloodlines. In their natural form, they have feline features with fiendish aspects\u2014burning eyes, backward hands, disturbing fangs\u2014that set them apart from shifters. Most of the Sakah are in the Demon Wastes, but some capable Sakah serve as agents of the Lords of Dust in the wider world. The final source of tieflings are the noble bloodlines of the Venomous Demesne. The Demesne tieflings are the result of fiendish bargains made long ago by the mages of Ohr Kaluun. Demesne tieflings should use the Infernal, Chthonic, or Abyssal legacies as presented in the Player's Handbook. Planar and Sakah tieflings should use one of the Fiendish Legacies presented in the Eberron Fiendish Legacies table. All other traits for Planar and Sakah tieflings are the same as those in the Player's Handbook.",
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/tiefling.webp"
+											},
+											"credit": "Júlio Azevedo"
+										},
+										{
+											"type": "entries",
+											"name": "Tiefling Traits",
+											"entries": [
+												"Fiendish Legacy. When you choose a legacy, you can select one of the options in the Eberron Fiendish Legacies table instead of one from the Player's Handbook."
+											]
+										}
 									]
 								},
 								{
@@ -6719,7 +6891,24 @@
 									"name": "Warforged",
 									"page": 162,
 									"entries": [
-										""
+										"Warforged are constructed humanoids, designed by skilled artificers and infused with the spark of life. Though they are made of wood and metal, warforged can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.",
+										"Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, and stone. Armored plates form a protective outer shell; this armor can be changed and removed, but it's rare for this to be done. The warforged of Eberron share a common facial design, with a hinged jaw, crystal eyes, and a unique sigil engraved on the reinforced forehead. Beyond these common elements, the precise design of a warforged will vary depending on the purpose for which it was designed.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Warforged",
+											"page": 162,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/warforged.webp"
+											},
+											"credit": "Bad Moon Art Studio"
+										}
 									]
 								},
 								{
@@ -6727,7 +6916,24 @@
 									"name": "Worg",
 									"page": 163,
 									"entries": [
-										""
+										"While sometimes mistaken for large wolves, worgs are a unique species of canid predator possessing keen intelligence and the power of speech. Worg senses are sharper than those of humans, and they feel a deep connection to the natural world; they delight in scents and sounds that others around them may not even notice. The worgs of the Watching Wood are devoted to the Devourer and the Fury, and this faith encourages them to rely on their instincts and intuition, as well as taking joy in the hunt and strengthening their pack.",
+										"The worgs of the Watching Wood are more compact than some other strains of the species. They are Medium creatures, though they can pull heavy loads and carry a Medium creature as a rider. While they have no hands and typically have little interest in material goods, the smiths of Maenya's Fist have developed specialized armor for worgs, along with Steel Jaws that strengthen a worg's bite and which can be enchanted like any other weapon.",
+										{
+											"type": "statblock",
+											"tag": "race",
+											"source": "FoEQuickstone",
+											"name": "Worg",
+											"page": 163,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/worg.webp"
+											},
+											"credit": "Júlio Azevedo"
+										}
 									]
 								},
 								{
@@ -6735,7 +6941,15 @@
 									"name": "Other Denizens of Droaam",
 									"page": 164,
 									"entries": [
-										""
+										"In addition to the species presented in this section, there are other common denizens of Droaam that can use existing mechanics.",
+										{
+											"type": "list",
+											"items": [
+												"The {@race Goblin|MPMM|Goblins} of Droaam use the traits provided in {@i Mordenkainen Presents: Monsters of the Multiverse}.",
+												"The {@race Kobold|MPMM|Kobolds} of the region use the traits provided in {@i Mordenkainen Presents: Monsters of the Multiverse}. The Khaar'paal kobolds of the Graywall Mountains typically have the Draconic Sorcery legacy, while the kobolds of the broader barrens are more likely to have Defiance or Craftiness as their Kobold Legacy.",
+												"The {@race Minotaur|MPMM|Minotaurs} of Turakbar's Fist use the traits provided in {@i Mordenkainen Presents: Monsters of the Multiverse}."
+											]
+										}
 									]
 								}
 							]
@@ -6745,12 +6959,38 @@
 							"name": "Feats",
 							"page": 164,
 							"entries": [
+								"This chapter presents fifteen new feats well suited to adventurers on the Western Frontier. Some of these feats are tied to specific species, such as the Stone Eyes of the Medusa or the Shadow's Gift of Song of the Harpy. Others can be useful for anyone, such as the Wandslinger Fighting Style feat.",
+								"This section notably includes the Lesser Dragonmark feat. This is a new way to represent dragonmarked characters and is intended to replace the approach taken in Eberron: Rising from the Last War. There are a few important things to understand about the feat.",
+								{
+									"type": "list",
+									"items": [
+										"Dragonmarks only manifest on certain species, and they can only manifest on someone with a direct blood tie to a dragonmarked house. It's possible that a character might not realize they have a tie to a house; this is the concept of the Dragonmarked Foundling background. However, the Mark of Making can only manifest on a Human character, and a human who develops the Mark of Making must have a tie to a Cannith bloodline somewhere in their family tree.",
+										"Dragonmarks can be granted by a background, but a character can also develop a dragonmark later in life by taking the feat.",
+										"The powers granted by the Lesser Dragonmark feat only reflect the basic gifts of the mark. An adventurer could attribute class abilities to their dragonmark, or describe spells cast as channeled through the dragonmark. A Cleric with the Life Domain and the Mark of Healing could describe casting Healing Word or Raise Dead by using their mark, and a Storm Sorcerer with the Mark of Storms could say that they use their dragonmark to channel elemental power. Likewise, NPCs with dragonmarks could have spell-like abilities reflecting the greater powers of their dragonmarks."
+									]
+								},
 								{
 									"type": "section",
 									"name": "Origin Feats",
 									"page": 165,
 									"entries": [
-										""
+										"These feats are in the Origin category.",
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Lesser Dragonmark",
+											"page": 165,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/dragonmark.webp"
+											},
+											"credit": "Lee Moyer"
+										}
 									]
 								},
 								{
@@ -6758,7 +6998,135 @@
 									"name": "General Feats",
 									"page": 166,
 									"entries": [
-										""
+										"These feats are in the General category.",
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Ashbound Initiate",
+											"page": 166,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Gatekeeper Initiate",
+											"page": 166,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Greensinger Initiate",
+											"page": 167,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Hewn for Battle",
+											"page": 167,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Orb Expert",
+											"page": 167,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Rod Expert",
+											"page": 167,
+											"collapsed": true
+										},
+										{
+											"type": "inset",
+											"name": "Heavy Rods",
+											"page": 168,
+											"entries": [
+												"Humanity's use of Wands and Staffs as Arcane Focuses dates back to Sarlona, but the Rod was born in Breland. Beren Hearth is a Brelish folk hero said to have owned an inn in the days before Galifar. When brigands tried to rob him, they took his staff; Beren smashed a chair, used the leg as a focus for Scorching Ray and then beat the last brigand with the leg itself. The Brelish \"heavy rod\" can be used either as an Arcane Focus or as a standard Club. Today, both Brelish and Karrnathi artificers produce heavy rods, while Aundairian and Cyran mages traditionally scorn such Rods as deplorably uncouth. A character with the Rod Expert feat doesn't have to be wielding a heavy rod to gain the benefits of the feat; any rod will suffice."
+											]
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Shadow's Gift of Stone",
+											"page": 168,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Staff Expert",
+											"page": 168,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Stone Eyes",
+											"page": 168,
+											"collapsed": true
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/medusa_stone_eyes.webp"
+											},
+											"credit": "Júlio Azevedo"
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Voice of the Fury",
+											"page": 169,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Wand Expert",
+											"page": 169,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Warden Initiate",
+											"page": 169,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Wings of Stone",
+											"page": 169,
+											"collapsed": true
+										},
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Winter Initiate",
+											"page": 170,
+											"collapsed": true
+										}
 									]
 								},
 								{
@@ -6766,7 +7134,15 @@
 									"name": "Fighting Style Feats",
 									"page": 170,
 									"entries": [
-										""
+										"These feats are in the Fighting Style category.",
+										{
+											"type": "statblock",
+											"tag": "feat",
+											"source": "FoEQuickstone",
+											"name": "Wandslinger",
+											"page": 170,
+											"collapsed": true
+										}
 									]
 								}
 							]
@@ -6776,7 +7152,37 @@
 							"name": "New and Reprinted Spells",
 							"page": 170,
 							"entries": [
-								""
+								{
+									"type": "entries",
+									"name": "New Cantrip: Gray Gaze",
+									"entries": [
+										{
+											"type": "statblock",
+											"tag": "spell",
+											"source": "FoEQuickstone",
+											"name": "Gray Gaze",
+											"page": 170
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "New Cantrip: Orien Step",
+									"entries": [
+										{
+											"type": "statblock",
+											"tag": "spell",
+											"source": "FoEQuickstone",
+											"name": "Orien Step",
+											"page": 170
+										}
+									]
+								},
+								"{@spell Earthbind|XGE}",
+								"{@spell Earth Tremor|XGE}",
+								"{@spell Enemies Abound|XGE}",
+								"{@spell Magecraft|ExploringEberron}",
+								"{@spell Mold Earth|XGE}"
 							]
 						}
 					]
@@ -6787,11 +7193,106 @@
 					"page": 173,
 					"entries": [
 						{
+							"type": "quote",
+							"entries": [
+								"I know, I know\u2014it's shorter than the standard Vown rod. But trust me, I've added a little extra weight to the pommel and the balance is perfect. You want the classic Vown design, you can go back to Sharn. You want the best damn rod gold will buy? You show me eighty galifars."
+							],
+							"by": "Jury d'Cannith"
+						},
+						"While it's far from the forges of House Cannith and the grand markets of the great cities of the east, there are countless wonders hidden in the dusty expanse of the Western Frontier. There are ancient blades buried in Dhakaani ruins, fey gifts from the Halls of King Grayfinger and the Merchant of Misthaven, exotic goods from the Venomous Demesne, and far more. The treasures in this chapter range from common trade goods from Droaam to the hand of the daelkyr Orlassk\u2014tools that could be part of everyday life on the frontier, or artifacts that could change the course of a campaign.",
+						{
 							"type": "section",
 							"name": "Styles of the Western Frontier",
 							"page": 173,
 							"entries": [
-								""
+								"The frontier is a melting pot, where the handiwork of the many cultures of Droaam mix with Cannith artifice, the primal creations of Eldeen druids, and the work of local crafters. When dealing with treasure on the Western Frontier, don't just think about what it does; consider where the item came from and who created it. A wandslinger might carry a wand carved by a Cannith artillerist, but she could just as easily possess a dueling baton from the Venomous Demesne or a rough- hewn branch from Sylbaran. This can be true even of an adventurer's starting equipment; is the fighter's chainmail surplus from their service in the war, or is it homespun, perhaps made by a smith in their hometown? It's always possible to find basic Cannith goods from the east on the frontier, but here are a few distinct styles adventurers might encounter.",
+								{
+									"type": "entries",
+									"name": "Ancient Dhakaan",
+									"page": 173,
+									"entries": [
+										"The Forge Adepts of the Dhakaani Empire produced astonishingly durable arms and armor, and equipment salvaged from Dhakaani ruins can be found across the region. The Dhakaani worked with exotic metals and alloys, such as mithral, adamantine, and byeshk. Dhakaani tools and equipment are typically austere and functional in design, with a brutalist sensibility."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Barrens Chibs",
+									"page": 173,
+									"entries": [
+										"Before the rise of Droaam, the Barrens were home to an ever-shifting array of small communities, each of which survived only as long as the chib that founded it\u2014often an ogre or troll. This wasn't a distinct culture, but rather a churning sea of anarchy. Barrens equipment is typically made from stone, hide, or bone. While there's no tradition of arcane science or artifice, magic items were occasionally produced by warlocks or sorcerers. What defines the chib style is the lack of any ongoing style or tradition."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Cazhaak Stonework",
+									"page": 173,
+									"entries": [
+										"The medusas of Cazhaak Draal are capable metalsmiths, but prefer to work with leather and stone. Cazhaak work typically has a sinuous, serpentine style with smooth curves and engraved patterns. Cazhaak magewrights excel at crafting items associated with poison or animate stone\u2014Daggers of Venom, stone Periapts of Proof against Poison, Figurines of Wondrous Power. Cazhaak priests of the Dark Six also imbue items with divine power. Such items can't be mass-produced, but can be quite powerful; a Mace of Terror could be a Cazhaak stone weapon dedicated to the Mockery."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Demesne Artifice",
+									"page": 173,
+									"entries": [
+										"Products of the Venomous Demesne are elegant and beautiful, produced using arcane science and techniques beyond those of the Five Nations. Their designs often feature metal that merges seamlessly with crystal or threads of energy. The Demesne excels at evocation and conjuration, and is an excellent source for Wands, Rods, Staffs, and other Arcane Focuses. Items of up to Rare quality are common in daily life in the Demesne, but they are also capable of producing Very Rare items. A traveler from the Demesne might have an Instant Fortress for shelter. However, the Demesne is a small city-state that lacks the resources and industrial base of House Cannith or a nation like Breland; its tools are powerful, but not widespread."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fey Gifts",
+									"page": 174,
+									"entries": [
+										"Adventurers might make bargains with the Merchant of Misthaven or be gifted with rings by King Grayfinger, but even normal people can receive gifts from lesser fey. Sometimes Fey gifts are ostentatious; a Doss Lute from Misthaven might be a beautifully gilded instrument with silver strings. On the other hand, Fey gifts can often appear to be very mundane and may have an appearance at odds with their purpose or standard design. For example, a Belt of Giant Strength could be a pair of old slippers; a Luckstone could be an old set of dice or a bone comb. One way to approach this is to pair the abilities of a standard magic item with an item rolled on a trinket table. The key is the contrast between the intentional arcane science of the Venomous Demesne or House Cannith; a fey gift isn't a product of science."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Frontier Homespun",
+									"page": 174,
+									"entries": [
+										"The people who live along the Border Road have limited access to goods from Breland and House Cannith. Because of this, many goods are either produced locally or are heirlooms that have been repaired time and time again. Because they are either handmade or patched up, homespun goods often have unique details. A homespun Longsword might be slightly shorter than usual, or perhaps the pommel doesn't match the rest of the hilt. If an adventurer has homespun gear, one question to consider is whether they know the artisan who made it\u2014or, if they have the proficiency, did they make it themselves?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Military Surplus",
+									"page": 174,
+									"entries": [
+										"The Last War only just ended in 996 YK. Since then, quite a few Brelish veterans have settled on the Western Frontier\u2014and throughout the war, Droaam saw its share of deserters and fugitives from many nations. Beyond personal equipment, there's a thriving black market trade in surplus weaponry\u2014Blast Disks, Long Rods, and powerful weapons from the Venomous Demesne. Bandits, Droaamite warlords, and the Swords of Liberty are all interested in stockpiling weapons... while some villages along the Border Road are building their own arsenals to defend against these forces. A bandit could easily wear a Brelish Breastplate and have an Aundairian-issued Wand of Magic Missiles; the question is which nation, if either, they originally served. Another thing to consider is military awards imbued with arcane power. A Brelish veteran might have earned Wroann's Star\u2014a medal for bravery that duplicates the effects of a Stone of Good Luck. Do they wear it proudly? Or is there a deeper story that causes them to keep it hidden beneath their armor?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Patchwork",
+									"page": 174,
+									"entries": [
+										"The gnolls of the Znir Pact are well known for patching their armor and equipment together from different sources. For the Znir, this is a way to cling to the memories of past victories, but brigands and adventurers alike may find it to be the most expedient approach to arming and armoring themselves. This is a good place to blur the lines of the title of armor or weaponry with its actual appearance; an adventurer could have armor that is functionally a Chain Shirt, but it could be described as Brelish-issued Studded Leather matched up with the right arm of a suit of Dhakaani Plate. Helmets, vambraces, boots\u2014on the frontier, each piece of equipment may have a story to tell."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sylbaran Woodwork",
+									"page": 174,
+									"entries": [
+										"The Western Frontier lies between Breland, Droaam, and the Eldeen Reaches, and over the course of decades goods from the Eldeen town of Sylbaran have made their way south along the Border Road. The Eldeen druids often use natural materials that have been imbued with primal magic to match the strength of steel\u2014blades of carved wood, scale mail made from bronzewood leaves. The primal magic of the Eldeen Reaches can also be a source of magic items, ranging from everyday items to more powerful treasures. A Potion of Healing could be a Jorasco brew, but it could just as easily be goodberry wine from Sylbaran (or troll's blood from Droaam!). The Eldeen rangers have long made use of Boots of Elvenkind and Cloaks of Elvenkind\u2014though on the frontier these are just known as Eldeen Boots and Eldeen Cloaks."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Others",
+									"page": 174,
+									"entries": [
+										"These are just a few options among many. The fiend- smiths of Turakbar's Fist produce powerful magic items embedded with demonglass; some of these are sentient, containing the essence of a bound fiend. The changelings of Lost manufacture items tied to shapeshifting and illusion; they produce the finest Shiftweave on the Frontier. The Khaar'paal kobolds often work with wyvern scale and bone, but their tools channel sorcerous power. And if an object is made from stone, it could always be tied to Orlassk, the daelkyr Lord of Stone! Ultimately, this is an opportunity to add an interesting flavor to an otherwise random item. If adventurers find an Ioun Stone, it might be the product of House Cannith or the Arcane Congress, but it could just as easily be a creation of Orlassk or a Cazhaak stonesmith. It could also be a jewel from the hoard of King Grayfinger, or a demonglass shard from Turakbar's Fist. Aside from suggesting the appearance of the item, this connection could become important later in the campaign!",
+										{
+											"type": "statblock",
+											"tag": "table",
+											"source": "FoEQuickstone",
+											"name": "Frontier Style",
+											"page": 175
+										}
+									]
+								}
 							]
 						},
 						{
@@ -6799,12 +7300,72 @@
 							"name": "Magic Items",
 							"page": 175,
 							"entries": [
+								"Magic items are just as important to everyday life on the frontier as they are in the Five Nations. Some of the items presented in this section can be found across the Five Nations; it's simply that, because the frontier has more than its fair share of wandslingers, this may be the first place you encounter a Duelist's Scorecard or a Flashdraw Wand. Other items are unique to the region\u2014and in some cases, entirely one of a kind! A few of the items that follow allow for casting spells found in Xanathar's Guide to Everything. These spells are noted with XGE , and are reprinted in chapter 4.",
+								{
+									"type": "inset",
+									"name": "Rarity and Unique Items",
+									"page": 175,
+									"entries": [
+										"The rarity of a magic item\u2014from Common to Legendary\u2014serves multiple purposes. It suggests the relative power of an item; an Uncommon magic item is assumed to be weaker than a Rare one. It's also a factor in calculating the cost of creating or purchasing a magic item. However, sometimes using one word for all of these purposes runs into problems. If an item is both exceptionally rare and also extremely weak, should it be rated Common based on its power or Legendary based on its actual rarity?",
+										"With this in mind, there are a few items presented in this chapter that are called out as being Unique. The Misthaven Miscellany isn't very powerful, and thus it is rated as Common, but it's a unique treasure from Thelanis. Jury d'Cannith created the only existing Jury's Squeaky Wheel; someone could replicate it, but you won't find it in a shop. Other items in this section aren't unique, but simply can't be purchased; House Orien doesn't sell its Thunder Coaches or Lightning Runners. So, the rarity of the items in this section indicates their relative power, but it's up to the DM to determine if these items can be found in a campaign."
+									]
+								},
 								{
 									"type": "section",
 									"name": "Frontier Magic Items",
 									"page": 175,
 									"entries": [
-										""
+										"The items in this section are treasures that can be found in the villages and wilds around the Border Road, from the town of Quickstone up to Sylbaran. Some of these are creations of local artisans; others are items that are especially popular with the wandslingers and brigands found in this region.",
+										{
+											"type": "list",
+											"style": "list-no-bullets",
+											"items": [
+												"{@item Beggar's Wisdom|FoEQuickstone}",
+												"{@item Daff's Wonderful Draught|FoEQuickstone}",
+												"{@item Dry Spell|FoEQuickstone}",
+												"{@item Duelist's Scorecard|FoEQuickstone}",
+												"{@item Flashdraw Wand|FoEQuickstone}",
+												"{@item Jury's Squeaky Wheel|FoEQuickstone}",
+												"{@item Lightning Runner|FoEQuickstone}",
+												"{@item Misthaven Miscellany|FoEQuickstone}",
+												"{@item Quickstone Boomstick|FoEQuickstone}",
+												"{@item Sandstorm Staff|FoEQuickstone}",
+												"{@item Sarkaas' Gladrags|FoEQuickstone}",
+												"{@item Scale of Kethelrax|FoEQuickstone}",
+												"{@item Shock and Ore|FoEQuickstone}",
+												"{@item Stonebane Weapon|FoEQuickstone}",
+												"{@item Three-Faced Coin|FoEQuickstone}",
+												"{@item Thunder Coach|FoEQuickstone}",
+												"{@item |FoEQuickstone}"
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Byeshk Weapons",
+											"page": 178,
+											"entries": [
+												"Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam's borders. Aberrations tied to the daelkyr\u2014including Dolgaunts, Dolgrims, and Mind Flayers\u2014are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeeper druids, and others that combat Aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.",
+												"Melee weapons made of or coated with byeshk are not inherently magical weapons, but are unusually effective when used to fight Aberrations. Whenever you hit an Aberration with a byeshk weapon, the target takes an extra 1d6 damage of the weapon's type, and it can't regain Hit Points until the start of your next turn.",
+												"The byeshk version of a Melee weapon costs 400 GP more than the normal version, whether the weapon is made of the metal or coated with it."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Contraband on the Frontier",
+											"page": 178,
+											"entries": [
+												"The Three Faces of Coin have been involved in smuggling operations in the region since before Droaam became a nation. But what is it that smugglers smuggle? If an adventurer has the Smuggler background, just how sordid is their past? Some of the goods that are smuggled are forbidden in Breland, such as...",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														"Weapons. During the Last War, smugglers sold Brelish weaponry\u2014such as Long Rods and Blast Disks (as described in Exploring Eberron)\u2014to Droaamite warlords (especially Rhesh Turakbar) and brigands. Today, this trade often flows in the other direction. The Venomous Demesne produces arcane weaponry that is both more sophisticated and more horrifying than their Brelish counterparts. Aurum Concordians, criminal groups, dissidents like the Swords of Liberty, and other private citizens may take interest in such tools.",
+														"Drugs. Dragon's blood can temporarily grant or enhance sorcerous abilities, but it is dangerous and highly addictive. Blood gin allows the imbiber to experience the last moments of someone who died. These are just a few examples of drugs produced in Droaam; both are illegal in Breland."
+													]
+												},
+												"In general, goods that are outlawed are either dangerous or disturbing. However, there are also goods that are fundamentally harmless, but which have tariffs imposed upon them to protect Brelish interests. These include Eldeen goods from Sylbaran\u2014from goodberry wine to Sylbaran honey\u2014as well as things like harpy sugar, a sweetener that's entirely mundane but \"as sweet as a harpy's song\" or trollskin bandages, which are nonmagical but highly effective. When adventurers acquire these items, the tariffs have already been paid, but smugglers can make a decent profit by bypassing the King's Assessors. So it's not the most exciting crime, but the dashing wandslinger could have been going back and forth with a Bag of Holding filled with harpy sugar!"
+											]
+										}
 									]
 								},
 								{
@@ -6812,7 +7373,21 @@
 									"name": "Fiendish Treasures",
 									"page": 179,
 									"entries": [
-										""
+										"Most scholars of the Age of Demons are familiar with the story of Rak Tulkhesh\u2014how the prison of the Rage of War was shattered, and how even a tiny sliver of the overlord's essence can have a dangerous effect on anyone who comes into contact with it. What's sometimes misunderstood, however, is the concept of the prison itself. It's often thought that the overlords are bound within Khyber dragonshards, but that's not actually the case; the overlords are in fact bound by the Silver Flame. To trap these immortal spirits, the Flame caught the essence of the fiends and, essentially, crystalized it\u2014creating a sort of violet obsidian not unlike a Khyber shard, a substance that is virtually indestructible but infused with fiendish power: demonglass. The prisons of the overlords themselves (containing a fraction of the overlord that is extended beyond the borders of its heart demiplane, as discussed in Exploring Eberron) are massive demonglass shards. But many lesser fiends were also caught by the Silver Flame, and they too were bound into a crystalline form.",
+										"There are two key types of demonglass in the world. Raw demonglass was used by the overlords themselves as a sort of building material. It is pure, solidified evil\u2014an unnatural and almost indestructible substance that registers as a fiend when someone uses Detect Evil and Good or a paladin's Divine Sense. But raw demonglass has no focused sentience, and it can be found in massive quantities. There are reefs formed of raw demonglass in the Thunder Sea and ridges of demonglass in the Demon Wastes. The fortress of Turakbar's Fist is formed from raw demonglass. It's durable and radiates malevolence, but there is no intensity to it. By contrast, bound demonglass contains the essence of a native fiend that once had an independent form. This could be any sort of fiend. While the rakshasa are the most common form of native fiend in the present day, one reason for this is that they were the most resistant to the binding. A chunk of bound demonglass might hold the essence of an imp, a vrock, or even a marilith. These entities are native fiends, most directly tied to one of the overlords. Most cannot affect the world while bound. But their power is held within the crystal, and with the proper rituals it can be drawn out. Mortal champions who serve an overlord might embed demonglass in their own bodies, while arcanists may find ways to channel the power of a fiend into an object. Over tens of thousands of years, the Lords of Dust have crafted many objects that draw on the power of demonglass; they may not be able to free their bound brethren, but they can still use their power.",
+										"Most of the items in this section were made by fiends as tools to arm their servants or corrupt their enemies. Those found on the Western Frontier are often tied to the overlord Tol Kharash, who loves to intimidate foes; the appearance of such relics will be brutal and cruel. However, it is possible for any artificer to use bound demonglass as a source of power when creating a magic item. However, if they don't know what they're doing, this could result in the item becoming cursed\u2014or even waking the fiend, creating a sentient item driven by a malevolent spirit.",
+										"These are just a few examples of fiendish treasures. Any magic item could have a fiendish aspect. A servant of Eldrantulku could craft Daggers of Venom with slivers of demonglass in the hilts. The point is that demonglass is a common thread for these items\u2014and that items made with demonglass will register faintly to any effect that detects Fiends.",
+										"Demonglass is virtually indestructible; it takes magic on par with a Wish to shatter it, and even then the splinters will remain. Because of this durability, it is nearly impossible to shape it; items tied to demonglass generally incorporate a shard of it.",
+										{
+											"type": "list",
+											"style": "list-no-bullets",
+											"items": [
+												"{@item Brand of Tyranny|FoEQuickstone}",
+												"{@item Demonglass Weapon|FoEQuickstone}",
+												"{@item Demonglass Orb|FoEQuickstone}",
+												"{@item Kharash's Promis|FoEQuickstone}e"
+											]
+										}
 									]
 								},
 								{
@@ -6820,7 +7395,18 @@
 									"name": "Symbionts",
 									"page": 181,
 									"entries": [
-										""
+										"The daelkyr like to create living tools and weapons; objects formed from chitin, bone, and muscle. Many of these items bond to their bearer, drawing sustenance from the creature attuned to them; for this reason, they are commonly called \"symbionts.\" Though a symbiont is a living tool, it is mechanically considered a magic item, not a creature.",
+										"When presenting an existing item as a symbiont, the DM must decide whether to add the Symbiotic Nature feature that other symbionts have. When such an item is attuned, it can't be removed from the bearer, even if they desire it; the only way to end the Attunement and remove the symbiont is to use an effect that ends a curse. This prevents the item from being taken away, but limits a character's free will, so it's up to the story you want to tell. While Symbiotic Nature is a common attribute for symbionts, it's not a requirement. A slug that functions as an Everybright Lantern wouldn't require Attunement. Even if the Periapt of Wound Closure is a scarab that digs into the flesh of the bearer, perhaps it could be pried loose, or it might release its grip voluntarily if the bearer ends the Attunement.",
+										{
+											"type": "list",
+											"style": "list-no-bullets",
+											"items": [
+												"{@item Ink's Aide|FoEQuickstone}",
+												"{@item Living Stoneskin|FoEQuickstone}",
+												"{@item Orlassk's Reach|FoEQuickstone}",
+												"{@item Quickstone Whisperer|FoEQuickstone}"
+											]
+										}
 									]
 								},
 								{
@@ -6828,7 +7414,26 @@
 									"name": "Treasures of Droaam",
 									"page": 183,
 									"entries": [
-										""
+										"Droaam is home to a wide range of mystical traditions and many common magic items can be found in the region. The tailors of Lost make fine Cloaks of Displacement and the duelists of the Venomous Demesne often wear Brooches of Shielding. The items mentioned here are things that are unique to the region and unlikely to be found elsewhere, unless they are carried by a Droaamite.",
+										{
+											"type": "list",
+											"style": "list-no-bullets",
+											"items": [
+												"{@item Barghest Collar|FoEQuickstone}",
+												"{@item Cazhaak Eyeblinders|FoEQuickstone}",
+												"{@item Figurine of Wondrous Power, Byeshk Worg Pack|FoEQuickstone}",
+												"{@item Gorgon Hide Mail|FoEQuickstone}",
+												"{@item Grist Cakes|FoEQuickstone}",
+												"{@item Lharvion Lens|FoEQuickstone}",
+												"{@item Lustrous Harpy Feather|FoEQuickstone}",
+												"{@item Mask of the Wielder|FoEQuickstone}",
+												"{@item Minotaur's Map|FoEQuickstone}",
+												"{@item Ogre Tines|FoEQuickstone}",
+												"{@item Oni Braid|FoEQuickstone}",
+												"{@item Trapper's Teeth|FoEQuickstone}",
+												"{@item Trollgut Rope|FoEQuickstone}"
+											]
+										}
 									]
 								}
 							]
@@ -6840,17 +7445,225 @@
 					"name": "Chapter 6: Fearsome Foes",
 					"page": 187,
 					"entries": [
+						"This chapter describes and provides stat blocks for various creatures found on the Western Frontier. For guidance on how to use a creature's stat block, consult the introduction of the Monster Manual",
+						{
+							"type": "entries",
+							"name": "Stat Blocks by Creature Type",
+							"page": 187,
+							"entries": [
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Aberration",
+									"items": [
+										"Dolguul",
+										"Orlassk"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Beast",
+									"items": [
+										"Tribex, Plains",
+										"Tribex, Riding",
+										"Tribex, War"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Construct",
+									"items": [
+										"Steel Horse"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Elemental",
+									"items": [
+										"Quickstone Gargoyle"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Fey",
+									"items": [
+										"Gantii'kaas",
+										"King Grayfinger",
+										"Merchant of Misthaven"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Fiend",
+									"items": [
+										"Demonglass Gargoyle",
+										"Tol Kharash, the Horned King"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Humanoid",
+									"items": [
+										"Black Crown Spellsword",
+										"Breggan Blackcrown",
+										"Sentinel Marshal",
+										"Stone Listener",
+										"Stone Speaker",
+										"Tharashk Hunter",
+										"Wandslinger",
+										"Westwind Riders"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Monstrosity",
+									"items": [
+										"Rhesh Turakbar"
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-no-bullets",
+									"name": "Template",
+									"items": [
+										"Demonglass Warrior",
+										"Stoneborn"
+									]
+								}
+							]
+						},
 						{
 							"type": "section",
 							"name": "Breggan Blackcrown",
 							"page": 187,
 							"entries": [
 								{
+									"type": "entries",
+									"entries": [
+										"Breggan Blackcrown is said to be the most dangerous woman on the Western Frontier. Once a Brelish soldier, she is now a bandit commander who launches brutal attacks against Droaamite raiders and civilians. Some see her as a hero of the people defying the laws of nations that are unwilling to protect Brelish settlers, while others condemn her for her cruelty. What cannot be questioned is her skill; she is a charismatic leader, a cunning strategist, and a deadly wandslinger. Breggan and her Black Crown bandits can be a source of random encounters and challenges\u2014the adventurers stumble upon a group of Black Crowns pillaging a kobold wagon; do they interfere? A group of Black Crowns offer assistance when the adventurers are fighting Turakbar's raiders\u2014the adventurers might be grateful for the help, but do they stop the Black Crowns from taking gruesome trophies? Breggan shows up in Quickstone and the adventurers know she's got a price on her head; do they try to claim it? Breggan embodies the lawless uncertainty of the frontier: is the enemy of your enemy a friend? Will you have a drink with the bandit queen and let her leave in peace, or will you start a fight even if innocents will surely be harmed in the crossfire?",
+										{
+											"type": "entries",
+											"name": "The Queen of the Lost",
+											"entries": [
+												"During the Last War, Breggan Lanner commanded an elite force of Brelish soldiers stationed at Orcbone. She led guerrilla raids into Droaam, and was often reprimanded for her brutality and for targeting civilian populations; her assertion is that all Droaamites are enemy combatants, something she truly believes. When the war came to an end, Breggan declared that King Boranel had betrayed the Brelish people by failing to destroy Droaam. She claimed to have had a vision from Breggor Firstking, the founder of the ancient nation of Wroat. She said that Breggor hailed her as his descendant and rightful heir, and led her to the location of his black iron crown\u2014and that he charged her to defend the abandoned people of the Western Frontier. Now Breggan calls herself the Queen of the Lost, and many Brelish settlers along the Border Road see her as a hero. Breggan fights Droaamite raiders and other Brelish brigands, and in doing so she does protect the settlers. But she also crosses the road and attacks peaceful Droaamite settlements. Many of the Brelish settlers are happy to give her a hero's welcome when she rides in, ready to spend plunder from her raids. But others recognize the hypocrisy and shudder at the stories of Breggan's brutality... although fear of reprisal keeps such people from raising a hand against her."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Tyrant's Eye",
+											"entries": [
+												"One tale of Breggan claims that she fought a minotaur with her bare hands, and in the end she tore out her enemy's eye and pressed it into her own socket, because she wanted to see the world as the monsters did. There is a sliver of truth to this story. Breggan has a bitter feud with the forces of Turakbar's Fist, and as she clashed with the minotaur raiders she witnessed the power of their Demonglass Warriors. When she defeated a minotaur champion bearing a particularly powerful demonglass shard\u2014the Tyrant's Eye\u2014she removed the shard and embedded it in her own flesh. At a glance, it looks like Breggan is wearing a crown of black iron bearing a glowing purple stone. But the stone isn't part of the crown; it's a demonglass shard embedded in her forehead. The shard allows Breggan to draw on the might of the Horned King, and it gives her considerable power. Tol Kharash is the overlord of tyranny, and when she channels the power of the shard, Breggan can compel obedience or enthrall her enemies. But as she uses the shard, she becomes vulnerable to the influence of the Horned King. This will never cause her to ally with Rhesh Turakbar or the Droaamite followers of Tol Kharash, but the more she uses the Eye, the more Breggan will be drawn to be a ruthless tyrant herself."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Breggan as an Ally",
+											"entries": [
+												"Breggan calls herself the Queen of the Lost, the true defender of the settlers of the frontier. If a DM chooses to embrace this story, Breggan could be defying the laws of Breland but truly doing what she believes to be best for the settlers. Her aggression could be focused on Droaamite raiders and on other bandits and deserters\u2014casting her as a brutal Robin Hood, but playing up the idea that the people she fights truly are worse than she is, and that she does actually share her plunder with people in need. In this case, Breggan could show up as the cavalry when adventurers are in need. Once she knows the adventurers, Breggan could ask them for help\u2014the Company of the Black Crown isn't well suited to actions deep in Droaam. Should the story follow this path, it would be an opportunity to play up the corrupting influence of the Tyrant's Eye. Initially, she is truly acting as a defender of the innocent, but over time she becomes increasingly ruthless in her actions against her enemies while also demanding obeisance and tribute from the settlers she's protected\u2014becoming obsessed with her identity as a queen. Can the adventurers find a way to break the hold of the Horned King?"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Breggan as an Enemy",
+											"entries": [
+												"Breggan may cast herself as the Queen of the Lost, but she is a ruthless soldier who views all Droaamites as enemy combatants. She considers the kobolds and goblins settling along the Border Road to be invaders, and treats them with the same brutality she shows against Turakbar's raiders. Her actions are intended to terrify her enemy; Breggan herself says you have to be a monster to beat a monster. If the adventurers include any Droaamite characters, they will surely be horrified by her actions; they might even have lost friends or family at Breggan's hands. Even if the adventurers have no ties to Droaam, they may still feel an obligation to defend the innocent civilians who are being butchered by the Black Crowns. In addition, the DM can play up the influence of the Tyrant's Eye, with the once heroic Breggan displaying increasing cruelty toward her \"subjects.\" The question in such a story is whether Breggan is an enemy who must simply be destroyed; whether the adventurers want to bring her to justice, or are in fact charged to do so by Count ir'Blis; or whether the adventurers want to redeem her. They could recognize that her brutality is driven by her twisted perception of the Droaamites as an implacable foe, but believe that she could be a stabilizing force for the region if she could be cured of this delusion\u2014and, perhaps, freed from the Tyrant's Eye."
+											]
+										}
+									]
+								},
+								{
 									"type": "section",
 									"name": "The Company of the Black Crown",
 									"page": 189,
 									"entries": [
-										""
+										"The core of the company is composed of former Brelish commandos who served under Breggan during the war. Over the last few years, they've picked up some new recruits, mostly settlers who want vengeance on the denizens of Droaam. The Black Crowns are a higher class of brigand than the typical roadside thug; they work together efficiently, and coordinate actions with code words and gestures. In battle, they will identify the greatest threats and weakest links in the enemy force and focus their fire, seeking to eliminate spellcasters quickly. The Black Crowns are bandits, and are used to taking what they want and being treated with respect and fear. They prefer intimidation to violence when dealing with Brelish settlers; Breggan doesn't like her soldiers hurting her \"subjects.\" But they make ruthless examples of people who go too far.",
+										"While the number varies, there are approximately thirty-five people in the Company of the Black Crown. They have access to military-grade weaponry, including Long Rods and Blast Disks (as described in Exploring Eberron). The Black Crowns have approximately ten Thugs, but most of their members are more capable and can use the Veteran, Bandit Captain, or Black Crown Spellsword stat blocks. The Company also includes a handful of officers with exceptional skills. The Black Crown Officers table provides examples, but the DM can always add new members to the company. When the DM first describes the Company of the Black Crown to their players, they may wish to ask each player to name and describe a new bandit who's part of the company, and to say how their player character knows or knows of this bandit; this is a way to give the adventurers direct connections or rivalries with the Black Crowns. The Black Crown Missions table provides ideas about what a group of brigands might be up to when they are encountered by the adventurers.",
+										"The Black Crowns adore Breggan. They have faced death with her many times and believe in her skills and abilities. Some truly believe that she's the Queen of the Lost; others respect her as their captain and don't care about her crown and her dreams. Breggan herself is devoted to her soldiers... but the Tyrant's Eye is wearing away at that loyalty, making her start to see her troops as tools... something reflected by her Expendable Allies reaction.",
+										{
+											"type": "table",
+											"caption": "Black Crown Officers",
+											"page": 189,
+											"colLabels": [
+												"d6",
+												"Officer"
+											],
+											"colStyles": [
+												"col-1 text-center",
+												"col-11"
+											],
+											"rows": [
+												[
+													"1",
+													"Dusker. This gnome is Breggan's most trusted lieutenant. Supposedly exiled from Zilargo, Dusker is a deadly assassin who often hides any time there's potential danger, waiting to strike when trouble arises. (Gnome Assassin, she/her)"
+												],
+												[
+													"2",
+													"Blessing. Breggan's loyal bodyguard, Blessing is a heavily armored warforged soldier. They served with Breggan during the war and truly believe she is the Queen of the Lost. (Warforged Gladiator, they/them)"
+												],
+												[
+													"3",
+													"Sigil. A former Brelish war mage, Sigil maintains the company's arcane artillery and likes watching things explode. (Human Mage, he/him)"
+												],
+												[
+													"4",
+													"Jeb Quicksilver. A Jorasco excoriate and priest of the Three Faces of War, Jeb serves both as a healer and as a cruel specialist in torture. He believes Breggan is blessed by the Mockery. (Halfling Priest, he/him)"
+												],
+												[
+													"5",
+													"Erina Whitethorn. A Brelish farmer and devoted grandmother, Erina swore herself to the Fury and to vengeance after her family was killed by Droaamite raiders. The others believe the Fury guides her scythe. (Human Berserker, she/her)"
+												],
+												[
+													"6",
+													"Torx. This Brelish changeling serves as a scout, spy, and quartermaster for the Crowns, using their personas and connections to fence plunder. They prefer to avoid violence and will often disappear when trouble starts. (Changeling Spy, they/them)"
+												]
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Black Crown Missions",
+											"page": 189,
+											"colLabels": [
+												"d6",
+												"Mission"
+											],
+											"colStyles": [
+												"col-1 text-center",
+												"col-11"
+											],
+											"rows": [
+												[
+													"1",
+													"Raid. The squad is heading toward battle or is actively raiding the location where they are encountered."
+												],
+												[
+													"2",
+													"Resupply. The group is looking to purchase supplies to take back to the main camp."
+												],
+												[
+													"3",
+													"Revenge. The bandits are looking to deliver a message to someone who defied Breggan or harmed a Black Crown."
+												],
+												[
+													"4",
+													"Recreation. The group is celebrating after a successful raid."
+												],
+												[
+													"5",
+													"Recon. A few bandits are scouting out a location for a possible raid or recreation."
+												],
+												[
+													"6",
+													"Rowdy. Something didn't go their way, and this group is looking to blow off some steam."
+												]
+											]
+										}
 									]
 								}
 							]
@@ -6860,12 +7673,135 @@
 							"name": "Daelkyr",
 							"page": 191,
 							"entries": [
+								"A daelkyr knows secrets mortals can't comprehend and has plans they can't understand. Some sages believe that the daelkyr are artists and that worlds are their canvas; they destroy civilizations and unleash monsters because, to them, this is a thing of beauty. Others say that the daelkyr exist beyond time, and that their actions only make sense when viewed over the course of millennia. Still others assert that any creature that can understand the motives of the daelkyr will immediately turn to their cause\u2014that it is dangerous to study the daelkyr too closely, lest their revelations destroy all prior understanding and identity. While they may be enigmatic, the daelkyr are unquestionably evil; they shatter innocent lives and entire civilizations without any remorse.",
+								{
+									"type": "entries",
+									"name": "Unifying Theme",
+									"entries": [
+										"Each daelkyr has a unique theme. Belashyrra is tied to sight, Orlassk to stone, and Dyrrn to corruption and evolution. This theme is reflected in the daelkyr's appearance, in the minions it employs, and in the symbionts it creates. If the daelkyr is an artist, the theme is its medium. If it's a conqueror, the theme defines its weapons and the world it seeks to create. Additionally, each daelkyr holds secrets and revelations relating to its specific theme\u2014secrets mortal minds can't comprehend. While in Belashyrra's presence, people may remember things they've seen and forgotten. Around Orlassk, they may feel numb... as if their flesh is becoming stone."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Alien and Unsettling",
+									"entries": [
+										"In an encounter with a daelkyr, consider ways to express its alien nature, such as the following:",
+										{
+											"type": "list",
+											"items": [
+												"A daelkyr can teleport 30 feet as a Bonus Action. This reflects the idea that the daelkyr are loosely bound to space and time. The daelkyr shifts in space, but you can't remember it moving. You could represent this as a constant, casual effect; even outside of combat, the daelkyr shifts between spaces, unbound by the concept of distance or time.",
+												"The appearance of a daelkyr is subjective. The basic facts are constant: a daelkyr is a Medium bipedal creature, and its equipment doesn't change. Beyond this, its appearance reflects its theme blended with its alien nature; for example, Orlaask typically appears as a humanoid in stone armor, with its face hidden behind a stone mask. But after people encounter a daelkyr, those who compare notes may find they disagree on the details. The daelkyr might appear as someone the viewer knows, or its appearance could shift mid-conversation. This is not something the daelkyr controls, and it's not considered a beneficial trait; it's simply part of their alien nature.",
+												"Daelkyr have telepathy with a range of 120 feet. This is their primary form of communication and is intended to be broader in scope than typical telepathy. A daelkyr can communicate with any number of creatures within range at once, projecting a thought much as other creatures project sound. Typically when a daelkyr \"speaks,\" all creatures receive the same message, but the DM might decide that one or more creatures receive a different message. And just as people see different things when they look at a daelkyr, two people can perceive a daelkyr's \"speech\" in very different ways. One may feel as though the daelkyr is speaking aloud with a strange, alien voice. Another may hear the speech of the daelkyr as the voice of a dead lover, whispering in their ear. Another may not be able to remember actually hearing the daelkyr speak; instead, they just remember its words existing, as if they've always known them.",
+												"The Alien Mind feature of the daelkyr reflects the idea that the way that the daelkyr experience reality is so alien that any creature who tries to read their thoughts\u2014to see the universe as they do\u2014may become catatonic."
+											]
+										}
+									]
+								},
+								"Any encounter with a daelkyr should be horrifying, driven by its alien, unknowable nature. The actions of the Lords of Dust and the Dreaming Dark make sense; the quori seek to control humanity's dreams, while the Lords of Dust strive to release their bound overlords. The actions of the daelkyr are just as deadly and destructive, but we cannot understand what they want, and those who attempt to do so often become their cultists.",
 								{
 									"type": "section",
 									"name": "Orlassk",
 									"page": 192,
 									"entries": [
-										""
+										"What if all the world was still, silent, and peaceful? What if everything was stone, perfect, and eternal? This is the promise of the Still Lord. Stone feels no pain. Stone doesn't fear the passage of time. Embrace Orlassk and you can be immortal and serene. With this in mind, Orlassk and its cults typically follow one of two themes. The first is the idea of flesh becoming stone, of bringing peace and silent perfection to the world. The second is that the stone is alive\u2014that there are voices in the stone, whispering secrets and offering wonders. Cultists of Orlassk often begin as miners guided to rich veins of ore, sculptors who hear the stone telling them how to unlock beauty, or prisoners saved from solitude by the comforting voices in the rock walls. As for Orlassk itself, its motives can only be guessed at. Does it prefer breathing life into stone, as it did with the gargoyles? Does it wish to petrify all organic creatures? Or does it hold the key to a deeper mystery yet to be understood?",
+										{
+											"type": "entries",
+											"name": "Quick Stone",
+											"entries": [
+												"Orlassk's creations straddle the line between organic and inorganic. One example of this is quickstone, a substance that can shift between malleable and rigid states. Treasures tied to Orlassk may use supernaturally hard stone in place of metal, or involve mineral intelligence. Orlassk creates Ioun Stones that sing to the characters attuned to them, and Barrier Tattoos that give skin the strength of stone. Orlassk is also a source of Figurines of Wondrous Power; while the figurines Orlassk creates can use the stat blocks assigned to the traditional figurines, they are usually carved in the shapes of creatures never seen in Eberron."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Orlassk's Minions",
+											"entries": [
+												"Orlassk turns flesh into stone and brings stone to life. Places where its influence is strong may be infested with cockatrices or gorgons. His cults often work with gargoyles, stone or clay golems, and earth elementals\u2014though these creatures are all created by Orlassk's whims, and have no kinship with traditional golems or elementals. But Orlaask isn't limited to elementals; almost any creature can be carved from stone and given life. In the last days of Dhakaan, Orlassk petrified the dar population of Cazhaak Draal and then animated them, unleashing this stone army against their kin. Legends speak of purple worms made from stone burrowing through the foundations of Dhakaani citadels. A cult of Orlassk could be led by a sphinx made of stone. All of these creatures would be represented with the Stoneborn Template provided in this chapter. As for Orlassk's cultists, their flesh often shifts to stone, though this is usually hidden beneath their skin. Those that follow this path eventually become stoneborn, but along the way they become Stone Speakers or Stone Listeners. Others never fully transform. After a cult was exposed in Ardev and eliminated, its members were found to be purely flesh and blood\u2014except for their brains, which had turned into marble."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Orlassk's Lair",
+											"entries": [
+												"Orlassk is bound within the Heart of Stone, a gravel desert filled with broken statues and towering, unfinished citadels and monuments. Orlassk's face is carved into a massive mountain, and gargoyles and nameless winged creatures dwell in its eyes and mouth; Orlassk itself dwells in the heart of that mountain, carving new creations from its roots. But Khyber and Xoriat interact in strange ways. The Heart of Stone is a demiplane in Khyber, with portals touching the surface that are sealed by the magic of the Gatekeepers. But there is another passage to the Heart of Stone\u2014a massive, stone colossus stalking through the deepest depths of Khyber. Orlassk itself cannot leave this living citadel, but its creations can crawl out of the mouth of the colossus. Should adventurers be so foolish as to face this horror in battle, it has the statistics of a Stoneborn Tarrasque. The citadel has never ascended from the depths. While nothing regarding the daelkyr is ever certain, Orlassk's citadel is likely bound below by the same Gatekeeper seals that bind Orlassk.",
+												{
+													"type": "entries",
+													"name": "Lair Actions",
+													"entries": [
+														"While within the Heart of Stone, Orlassk can take Lair Actions. On Initiative count 20 (losing Initiative ties), Orlassk can take a Lair Action to cause one of the following effects. It can't use the same effect two rounds in a row:",
+														{
+															"type": "list",
+															"items": [
+																"Statues within an immobile 200-foot Emanation centered on Orlassk come to life as if it had cast Animate Object. The statues remain animated for 1 minute or until destroyed. Orlassk does not need to concentrate to maintain this effect.",
+																"The ground in a 20-foot-radius Sphere centered on a point Orlassk can see in its lair sprouts stone blades and reaching limbs. The area becomes Difficult Terrain for 1 round. When a creature moves into or within the area, it takes 7 (2d6) Piercing damage for every 5 feet it travels.",
+																"Orlassk directs a portion of its lair to reshape into a giant stone fist to crush its enemies. Creatures in a 20-foot-radius Sphere centered on a point Orlassk can see in its lair must make a DC 22 Dexterity saving throw or take 22 (4d10) Bludgeoning damage."
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Regional Effects",
+													"entries": [
+														"While passage to the Heart of Stone is blocked by the Gatekeeper seals, there are places in the world where Orlassk's influence is strong. During the Age of Dhakaan, cultists of the Still Lord built altars of stone infused with the power of the daelkyr. These altars cannot be physically destroyed; the only way to remove an Altar of Orlassk is to find a way to sever its connection to the Still Lord by reconsecrating it to some other power. One such altar lies somewhere near Cazhaak Draal, and its influence maintains the unnatural state of the Stonelands. There is another in the Graywall Mountains near the town of Quickstone; the influence of this altar is directly at odds with the influence of the archfey King Grayfinger. Others could be hidden across Khorvaire, and it's always possible a cult could create a new altar in an existing city. Regions containing an altar of Orlassk could have one or more of these effects.",
+														{
+															"type": "list",
+															"items": [
+																"Some or all of the plants within the region are transformed into stone, but continue to grow; like a gargoyle, they display traits of living creatures despite being made of stone. This effect is seen around Cazhaak Draal.",
+																"Deposits of quickstone are found in the earth. If harvested, this substance will slowly replenish over time. This effect is seen in the Graywall Mountains.",
+																"Cockatrices emerge from Khyber and infest the area.",
+																"Statues in the region occasionally shift position.",
+																"Living creatures who remain in the area for an extended period of time run the risk of turning to stone. Each time they complete a Long Rest in the region, a creature must make a Constitution saving throw (DC 13). If they fail, they suffer the effects of the Slow spell until they next finish a Long Rest. If they fail this saving throw on their next Long Rest, they have the Petrified condition.",
+																"Small stone idols can be found in the region. These are almost shapeless, but a Humanoid that interacts with one will find that it seems familiar; it reminds them of someone they love or respect. A creature that carries one of these idols for more than an hour while within the affected region must succeed on a DC 22 Wisdom saving throw or be affected by one of the Delusions of Orlassk (see the table below). A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours."
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Delusions of Orlassk",
+											"entries": [
+												"If a creature goes mad in Orlassk's lair or while it can see the daelkyr, it is afflicted with a powerful delusion. Roll on the Delusions of Orlassk table to determine the nature of this delusion, which takes the form of a character flaw that lasts until cured. Chapter 8 of the Dungeon Master's Guide has more information on delusions.",
+												{
+													"type": "table",
+													"colLabels": [
+														"d6",
+														"Flaw (lasts until cured)"
+													],
+													"colStyles": [
+														"col-1 text-center",
+														"col-11"
+													],
+													"rows": [
+														[
+															"1",
+															"\"I hear wise voices in the stone.\""
+														],
+														[
+															"2",
+															"\"Silence and stillness is perfection.\""
+														],
+														[
+															"3",
+															"\"I am turning to stone beneath my skin.\""
+														],
+														[
+															"4",
+															"\"I must dig deeper in the earth.\""
+														],
+														[
+															"5",
+															"\"Statues are alive and can move if they wish to.\""
+														],
+														[
+															"6",
+															"\"I am a statue that was transformed into flesh.\""
+														]
+													]
+												}
+											]
+										}
 									]
 								}
 							]
@@ -6875,7 +7811,8 @@
 							"name": "Demonglass Warriors",
 							"page": 195,
 							"entries": [
-								""
+								"The demonglass found on the Western Frontier is the solidified essence of the overlord Tol Kharash and his lesser fiends. Cults of the Horned King\u2014notably, the denizens of Turakbar's Fist\u2014often embed small shards of demonglass within the cult's warriors. This serves as a minor form of possession, compelling the warriors to serve the Horned King while simultaneously weakening their ability to resist his fiendish minions. The basic abilities granted by embedded demonglass are presented in the Demonglass Warrior template, while other potential powers are described in the Demonglass Champion sidebar.",
+								"Removing an embedded demonglass shard from a creature is a risky proposition, typically killing the host. Removing a shard safely requires the host to either be a willing participant, Restrained, or Unconscious. A Remove Curse or Greater Restoration spell cast on the host breaks the possession and allows the shard to be removed. The actual physical removal requires a sharp tool and a Wisdom (Medicine) check with a DC of 15; if the check fails, the shard is still removed, but the host suffers 15 points of Piercing damage."
 							]
 						},
 						{
@@ -6883,7 +7820,8 @@
 							"name": "Dolguul",
 							"page": 197,
 							"entries": [
-								""
+								"In the golden age of the Empire of Dhakaan, bugbear cavalry would lead assaults mounted on worgs or dire tigers. Dolguuls are a brutal mockery of these champions. Formed from a blend of stone and bone, the dolguul has the upper torso of a mouthless bugbear merging into a hunched, eyeless quadrupedal shape with a vicious maw. One of the Dolguul's limbs ends in a massive blade. The other terminates in a hook; the creature can fling this at an opponent, extending it out on a grisly chain of bone and pulling a foe into range of its bite.",
+								"The dolguuls were created by the daelkyr Orlassk, and are typically found assisting its cults or in the tunnels of Khyber below the Barrens and the Graywall Mountains. However, as with dolgaunts and dolgrims, they can be found in the service of any daelkyr. Dolguuls alternate between periods of complete immobility and manic motion; when on the hunt, they delight in running down prey."
 							]
 						},
 						{
@@ -6891,7 +7829,33 @@
 							"name": "Gantii'kaas",
 							"page": 198,
 							"entries": [
-								""
+								"Mining in the Graywall Mountains is a dangerous occupation. Accounts from ancient Dhakaan warn of the gantii'kaas, the \"hungry hands\" of the mountains. On the surface, these tales can be taken as a warning to use care, so as to not trigger an avalanche or collapse a tunnel. But the truth is there beneath the words; there are spirits in the stone, guardians who can grant good fortune to a miner or spell their doom. Anyone venturing into the depths of the earth would be wise to watch out for the gantii'kaas.",
+								{
+									"type": "entries",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Spirits of Gold and Stone",
+											"entries": [
+												"The gantii'kaas are reclusive fey, serving the same role in the earth that dryads play in the woods. Rather than being bound to purely natural environments, the gantii'kaas are drawn to mines and to other subterranean stonework. The typical gantii'kaas is arrogant, vain, and proud\u2014quick to anger, but also highly susceptible to flattery. If a gantii'kaas is pleased with the mortals that work in its domain, it might seed the stone with ore or gems. But should it feel unappreciated, or that the mortal miners are too greedy, a gantii'kaas can strip the bounty from the soil, trigger a collapse, or worse..."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Subjects of the King",
+											"entries": [
+												"The gantii'kaas of the Graywall Mountains are subjects of the archfey known as King Greyfinger. Each watches over their stretch of stone on behalf of their monarch, and they expect tribute from those who work in the depths. If a miner takes something from the earth, they should leave a gift for the gantii'kaas and their king. Such a tribute can be simple\u2014a single coin, a fresh-baked pie. The gesture matters more than the monetary value of the offering; it's about showing gratitude for what's taken from the stone."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Voices in the Stone",
+											"entries": [
+												"A gantii'kaas can shape stone and meld into it. These fey can also speak to stones, imbuing them with a temporary, rudimentary (some might say sedimentary) sentience. This gift also allows a gantii'kaas to remain aware of its surroundings even while melded with stone; the earth whispers to it, telling it everything that is happening in the vicinity."
+											]
+										}
+									]
+								}
 							]
 						},
 						{
@@ -6899,6 +7863,35 @@
 							"name": "Gargoyles",
 							"page": 200,
 							"entries": [
+								"Droaam has the highest Concentration of gargoyles in Khorvaire. Grimstone Keep is the center of gargoyle culture in Droaam, but there has long been a significant gargoyle presence in Cazhaak Draal, living in harmony with the medusas of the Stonelands. Gargoyles can be found in most of the major cities of Droaam, serving as couriers and scouts.",
+								{
+									"type": "entries",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Stone in Many Forms",
+											"entries": [
+												"The standard gargoyle described in the Monster Manual is the most common form, originating near the end of the Dhakaani Empire. However, gargoyles can be designed in a wide variety of shapes; a gargoyle could have the appearance of a dhakaani soldier or of Dol Dorn. Such gargoyles use the standard Monster Manual stat block with the following modifications:",
+												{
+													"type": "list",
+													"items": [
+														"Gargoyles without wings don't possess a Fly Speed.",
+														"Gargoyles crafted in Droaam know the Goblin language, and may know Common as well.",
+														"Droaamite gargoyles have an average Intelligence of 10 and may have any Alignment.",
+														"A gargoyle without claws or teeth may fight with weapons, or strike with an Unarmed Strike dealing 1d6 Bludgeoning damage. Some gargoyles are carved with stone weapons; use the statistics of the standard weapon, but the gargoyle can't be disarmed or use the hand holding the weapon for any other purpose."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sinister Influence",
+											"entries": [
+												"While their origins are tied to the daelkyr Orlassk, the daelkyr has no influence over the gargoyles of the present day. However, gargoyles in the region can be corrupted by supernatural forces. Demonglass Gargoyles are infused with the essence of a fiend, while Quickstone Gargoyles are directly tied to the daelkyr Orlassk."
+											]
+										}
+									]
+								},
 								{
 									"type": "section",
 									"name": "Demonglass Gargoyle",
@@ -6922,7 +7915,57 @@
 							"name": "King Grayfinger",
 							"page": 202,
 							"entries": [
-								""
+								{
+									"type": "quote",
+									"entries": [
+										"There is an ancient miser beneath the Graywall Mountains. Who he is, well, that depends on who's telling the story. The people of Copper River say King Grayfinger is a dwarf who founded a forgotten kingdom beneath the Graywall Mountains. Morgrave sages will tell you the myths of King Grayfinger were surely inspired by a hobgoblin marhu, perhaps one of the Six Kings of old. The kobolds in their red tents, they say the Miser is a kobold who was determined to amass a hoard greater than any dragon. But while these stories may clash over what kind of creature the King might be, they all agree on his vast wealth and his all-consuming greed. Whether you're a miner or an adventurer, a fortune awaits you in the mountains. But if you anger the King, his hungry hands drag you down."
+									]
+								},
+								"The Graywall Mountains are a potential source of gold and iron... not to mention byeshk, khyber shards, and gems. King Grayfinger embodies the mountains in tales told along the western frontier. When miners find a vein of gold, it's Grayfinger showing his largesse; when the shaft collapses, it's Grayfinger's wrath. Thus, superstitious miners in the range are careful to show gratitude to Grayfinger\u2014to marvel at the wonders of his hoard when a new vein is found, and to show proper humility and gratitude when extracting this wealth. It's typical for a foreman to sacrifice a gift to Grayfinger when opening a new shaft. This doesn't have to have monetary value, but it is something that is a treasure to the foreman; it's tossed into a chasm, given to Grayfinger's hoard.",
+								"King Grayfinger embodies the idea of the mountain itself, holding treasures but capable of dealing death. However, there is a second thread woven into his story: the tale of a King who possesses wealth beyond imagining, but whose greed is such that he is never satisfied. It's a tale reinforced and played out by various mortals over time. There was indeed a great marhu beneath the mountains in the Age of Dhakaan, and there are mortal treasures waiting to be found... along with Thelanian manifest zones with fey wonders. People have good reason to believe that the Graywalls hold hidden treasure, and the stories of King Grayfinger build on that while also emphasizing how reluctant he is to part with his wealth. There are dozens of small tales referencing Grayfinger's avarice and greed, and the people who live around the Graywalls may say \"Jolan came into a payday, I swear he had more gold than Grayfinger\" or \"Leave some for the rest of us, Donal! You're as greedy as Grayfinger\".",
+								{
+									"type": "entries",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "King Grayfinger as an Ally or Patron",
+											"entries": [
+												"In the tale \"Dela's Fortune,\" an orphan girl helps a sprite find a lost statue; the sprite leads her down a mountain tunnel into Grayfinger's Hall. As thanks for her service, King Grayfinger allows her to take one coin each day from his hoard. When Dela's foster parents learn of this, they force Dela to show them the way and steal from the hoard; the angry king turns them into golden statues and gives them to the girl to ensure her future fortune. This is a good model for Grayfinger's aid. Grayfinger hates thieves, and he despises the daelkyr Orlassk; as the Still Lord's influence spreads across the Graywall Mountains, it diminishes Grayfinger's significance. The King could call upon adventurers to find and punish a thief; ask them to recover a relic stolen from his hoard; or charge them to destroy a cult of Orlassk. Grayfinger hates leaving his hoard; if adventurers earn the king's trust, he might ask them to represent him at a gala in the Moonlit Vale of Thelanis. Adventurers could potentially do any of these things without even meaning to; they might defeat a cult cell on their own, only to be hailed by one of Grayfinger's servants and summoned to his hall. Grayfinger typically rewards those who earn his favor with treasure. His first gift is usually a magical ring, but ongoing service can earn other rewards. As a Warlock's patron, Grayfinger will charge his servant to seek out thieves and to recover stolen relics; to spread word of Grayfinger's wealth; and to always seek to acquire ever-greater treasures for his hoard. Should a Warlock give a great treasure to their patron, the King will give them something in return; this is a possible way for adventurers to acquire specific magic items they've always wanted but can't acquire commercially."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "King Grayfinger as an Enemy",
+											"entries": [
+												"The Miser Beneath The Mountain despises thieves, and the easiest way to earn his enmity is to steal from him\u2014even unknowingly. Adventurers exploring the Graywall Mountains could find a lone treasure\u2014a jeweled dagger in a cave\u2014or they could find a chamber filled with copper and silver coins. These may seem to be abandoned, but adventurers who take these treasures could be attacked by Gantii'kaas, other fey, or Galeb Duhr; or they could be cursed upon leaving the mountains. Grayfinger's favorite curse is a curse of poverty; any coins or jewels handled by the victim disappear, as they are teleported to Grayfinger's hoard",
+												"His other common curse simply imposes Disadvantage on all saving throws made by the victim. Spells that remove curses can negate this effect for an hour, but only a Wish can remove it permanently; otherwise, the curse can only be lifted by Grayfinger or another archfey. If the adventurers don't steal from the King, they could be targeted by one of his warlocks when they acquire a treasure he covets for his hoard. Another option is that an enemy of the adventurers suddenly acquires remarkable wealth or a powerful artifact; investigation shows that the foe has earned Grayfinger's favor. Can the adventurers disrupt the alliance?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "King Grayfinger's Lair",
+									"entries": [
+										"King Grayfinger lives in the Underhall, a subterranean castle filled with treasures. There are a number of Thelanian manifest zones in the Graywall Mountains that can serve as gateways to the Underhall, and the influence of his realm leaks out even when the gateways are closed. Explorers might find loose treasures in these regions\u2014the jeweled knife lying on the floor of a cave\u2014or miners may find an area with improbably rich deposits of byeshk or an impossible blend of gemstones. These regions slowly shift around the Graywall Mountains; thus, a rich vein can run dry, while a previously weak claim suddenly holds new riches. The influence of Orlaask and its stone cultists smothers Grayfinger's connection to a region, spreading quickstone in place of byeshk. If adventurers defeat a stone cult, Grayfinger's influence may slowly manifest in the region.",
+										"The Underhall is grand, but the style of its architecture is impossible to place; it's not quite Dhakaani or dwarven. The halls are filled with tempting wonders, but taking any of these will trigger curses or guardians. Grayfinger himself sits in his throne room, surrounded by his hoard. When adventurers first see the hoard, the DM may wish to ask each player to describe something wondrous that catches their character's eye; almost any treasure might be found in this place.",
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"While in his Underhall, Grayfinger can take Lair Actions. On Initiative count 20 (losing Initiative ties), Grayfinger can take a Lair Action to cause one of the following effects; he can't use the same effect two rounds in a row:",
+												{
+													"type": "list",
+													"items": [
+														"An ancient weapon of Grayfinger's choice (see the \"Treasure from the Vault\" trait) appears in an unoccupied space that Grayfinger can see within 120 feet. The weapon can immediately Fly up to 30 feet and make an attack against a creature within range. The weapon returns to Grayfinger's vault after making the attack.",
+														"Grayfinger casts Wall of Stone at a point he can see within 120 feet, requiring no spell components. He does not need to concentrate to maintain the effect. The wall disappears after 10 minutes, or when Grayfinger is reduced to 0 Hit Points.",
+														"Quaking earth triggers a rockslide. Creatures in the lair other than Greyfinger must succeed on a DC 22 Dexterity saving throw or be pushed 30 feet in a direction of Grayfinger's choice and have the Prone condition."
+													]
+												}
+											]
+										}
+									]
+								}
 							]
 						},
 						{
@@ -6930,7 +7973,81 @@
 							"name": "Merchant of Misthaven",
 							"page": 205,
 							"entries": [
-								""
+								{
+									"type": "quote",
+									"entries": [
+										"As Little Drego led the old tribex to market, the Merchant stopped him on the road. \"That's a fine beast you have there,\" she said. \"I've need of a 'bex to haul my goods back to Misthaven. But I've precious little left to trade. All I have is this pewter ring, which makes the wearer invisible. Would you take it for your beast?\" That old tribex barely had three working legs, and Drego was no fool. He knew to beware the gifts of the Traveler. And the Merchant, she could see it in his face. \"This is no gift, my friend.\" She gave the tribex a handful of oats, and just like that he was young and strong again. \"I need a sturdy beast, and in Misthaven rings like this are as common as coppers. So you have a choice, Little Drego. Your tribex is young and healthy, and you can take him home and spend your life plowing the field. Or you can take my ring for your fine beast and find your fortune in the world beyond your farm. Which will it be?\""
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"What is it that you want, and how badly do you want it? A magic sword that will slay your enemies? An amulet that will guide you to your one true love? A spellbook that will earn you renown as the greatest wizard of the age? The Merchant has all of those things. But unlike the Traveler, the Merchant of Misthaven doesn't give gifts. Everything has a price; are you willing to pay it?",
+										{
+											"type": "entries",
+											"name": "Opportunity... With a Price",
+											"entries": [
+												"Every Brelish child knows the stories of Drego the Unseen: how he outwitted the Prince of Bones and exposed the schemes of Count Ironfist. Drego is clever and brave, but it's his magic ring that drives his tale\u2014the ring he obtained in a bargain with the Merchant of Misthaven. Many a child hopes that one day the Merchant will approach them with a similar offer, trading a wondrous treasure for something that seems to have little value. And there are a host of other popular tales that start in this way. It's established enough that it's not even questioned. \"What possible use could the Merchant have for an old tribex? Don't ask! It's not the point of the story.\" When this does come up in the tales, it's said that the Merchant can afford to be generous because the wonders she offers are commonplace in the magical realm of Misthaven. This in itself has worked its way into the common psyche of western Breland; should someone from Sharn make a ridiculous request of a blacksmith in Breland, they might be told \"Where do you think you are? Misthaven?\" The Merchant has mythic overlap with the Traveler, but there are a few crucial differences. The Merchant never gives gifts; she always demands something in exchange for the wonders she's offering. She delivers on her promises and stands by her word. The Merchant offers Drego a Ring of Invisibility in exchange for his tribex. Drego takes the deal and subsequently has a host of adventures, and while he faces many dangers he could have avoided by just staying home, the Merchant isn't directly responsible for those challenges.",
+												"Most stories involving the Merchant use one of three formulas.",
+												{
+													"type": "list",
+													"items": [
+														"Opportunity. The Merchant offers a one-time exchange that gives the protagonist a tool that sets their story in motion.",
+														"Risk. The Merchant makes an offer, but it comes with a time limit or challenge. \"I'll give you this Doss Lute and a year of fame, but when the year ends you must play a duet with me... and if I outplay you, you'll spend the rest of your days tuning instruments in Misthaven.\"",
+														"The Price of Greed. The protagonist's greed drives them to take an offer without fully considering the consequences. \"I offered you magic in exchange for taking your first love. You thought your first love was still to come, that you were giving up something you'd yet to feel. But you felt your first love for your baby brother, my dear. And now I'm taking him away to Misthaven.\""
+													]
+												}
+											]
+										},
+										"The Merchant isn't a trickster. She always delivers what she promises. But she may ask a high price or offer a dangerous wager... or it may be that the protagonist's greed blinds them to the scope of the bargain they're making. The one element that is constant throughout all of these stories is that making a bargain with the Merchant will change your life. A deal with the Merchant could get you fame or fortune, but her bargains are always the first step on a path that leads through adventure.",
+										{
+											"type": "entries",
+											"name": "The Merchant as an Ally or Patron",
+											"entries": [
+												"The Merchant exists to make interesting bargains. She has a broad affinity for the Western Frontier, and can appear at any time or place where there's a bargain to be made. Here are a few examples of helpful or interesting interactions.",
+												{
+													"type": "list",
+													"items": [
+														"New Lamps for Old. When the adventurers acquire something that is powerful but dangerous\u2014a cursed weapon, a shard of demonglass, an Iron Flask containing a fiend\u2014the Merchant can step out of the shadows and offer them something more useful in exchange. Would the Paladin like to trade that Iron Flask for a Holy Avenger? This is a way to present the adventurers with magic items they really want that have no logical reason to be found in the region, and it's also an opportunity to remove something dangerous from the scenario.",
+														"Just what you Need. Consider the story of Drego the Unseen, where the Merchant offers a Ring of Invisibility for an old tribex. The Merchant could appear at a crossroads with a seemingly astonishing offer for an adventurer\u2014\"those old boots of yours are just what I'm looking for. But all I have to offer is this magic wand. Any chance you'd make an exchange?\" The key to the Merchant's bargains is that they always make the story more interesting; whatever she's offering may draw the adventurer into a dangerous situation or give them the chance to pursue a more challenging path. But there don't have to be any other catches!",
+														"Immaterial Things. The Merchant doesn't just trade objects; she can offer skills, magical abilities, or opportunities. A gift of the Merchant could be represented by a supernatural boon, or by a twist in the story. Do the adventurers need an invitation to the Tain Gala? The Merchant happens to have one. More dramatically, this could be a way for an adventurer to dramatically shift something: swapping two of their ability scores, or even changing their class. While the Merchant generally doesn't employ Warlocks\u2014she prefers to make her deals directly\u2014an adventurer could also assert that their core abilities are tied to a previous bargain with the Merchant. Perhaps she gave the Wizard their first spellbook, or gave the Bard a literal silver tongue that allows them to perform bardic magic."
+													]
+												},
+												"The Merchant can take any form; she can be an old woman, a young artificer, or a masked fey figure. Having said that, she generally doesn't try to deceive the people she bargains with. Her story is well known, and strengthened with each deal that she makes; why hide it? This also helps to differentiate her from the Traveler."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Merchant as an Enemy",
+											"entries": [
+												"There are a few ways to use the Merchant of Misthaven as a malevolent force in a story. The first is to have her make bargains with evil or misguided people. How did the cruel sheriff get the powers of a warlock? How did that assassin get a Ring of Invisibility? She could even turn someone into a lycanthrope or a vampire, if that's a bargain they want to make. A distinction between the Merchant and a fiend like Sul Khatesh is that the Merchant has no long-term interest in the people who take her deals. If she turns the village butcher into a vampire, she won't be upset if the adventurers drive a stake through his heart; that's still a compelling story! Alternatively, she could make problematic bargains with allies or friends of the adventurers, or with the adventurers themselves. Consider the Risk and Price of Greed stories mentioned above. Perhaps the local bard made a bargain a year ago and their duet with the Merchant is happening tomorrow. Or maybe an adventurer's nephew made a bargain for warlock powers and in the process traded away his sister; can the player characters get her back? In either case, what would it take to get the Merchant to renegotiate? Do the adventurers need to find a treasure she wants even more than whatever she originally bargained for, or is an adventurer willing to make their own dangerous bargain to let their friend off the hook?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Merchant's Lair",
+									"entries": [
+										"The Merchant hails from Misthaven, a land of legendary wonders. According to the stories, Misthaven is impossibly rich and brimming with mystical treasures. But a key element of the Merchant's story is that no one ever goes to Misthaven. That's part of what keeps it infinitely wondrous. This is true even in Thelanis itself. The Merchant is respected as an anchor baron, the lord of her own story, but no one ever goes to Misthaven. If you wish to speak to the Merchant, you'll have to convince her to come to you\u2014or find her at a gala in the Moonlit Vale. Because of this, the Merchant of Misthaven doesn't have a traditional, physical lair. Instead, her story is her lair. She is more powerful when she is interacting with people who have made bargains with her. Should adventurers try to break a deal with her by force\u2014fighting her instead of going through with the bard's musical face off\u2014she has access to additional abilities.",
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"While fighting or defending anyone who has made a bargain with her, the Merchant of Misthaven can take Lair Actions. On Initiative count 20 (losing Initiative ties), the Merchant can take a Lair Action to cause one of the following effects; she can't use the same effect two rounds in a row.",
+												{
+													"type": "list",
+													"items": [
+														"A flood of counterfeit coins and jewels spills out, covering up to a 40-foot Emanation centered on the Merchant. Each creature within the area other than the Merchant must succeed on a DC 21 Dexterity saving throw or have the Prone condition.",
+														"A spectacle of wonders appears in a space the Merchant can see within 100 feet. Each creature that can see the spectacle must make a DC 21 Wisdom saving throw. On a failed save, a creature must use their movement on its turn to move as close to the spectacle as possible. A creature isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke Opportunity Attacks.",
+														"The Merchant chooses a point she can see within 100 feet. Until the following round, a 20-foot-radius Sphere of light emanates from that point, dispelling any magical darkness within the same area. The rest of the area\u2014up to a 500-foot-radius Sphere\u2014is plunged into magical darkness. A creature with Darkvision can't see through this darkness, and nonmagical light can't illuminate it."
+													]
+												},
+												"While no one ever goes to Misthaven, player characters are remarkable. If it suits the needs of the adventure, the adventurers could be the first people to ever find a way to Misthaven. In this case, the DM will have to decide if it is just as wondrous as the Merchant claims or if, in fact, her true domain is a run-down shack or warehouse filled with odds and ends!"
+											]
+										}
+									]
+								}
 							]
 						},
 						{
@@ -6939,11 +8056,48 @@
 							"page": 209,
 							"entries": [
 								{
+									"type": "entries",
+									"entries": [
+										"In the first days of the world, the fiendish children of Khyber rose from the darkness to reign over Eberron. The greatest among them were the overlords, who held dominion over the world until the children of Eberron and Siberys rose up against them. Armies of dragons fought against the fiends of Khyber. When it became clear that the overlords couldn't be destroyed, the couatl sacrificed their lives to build a prison of celestial light: a silver flame that bound the overlords in Khyber. These bonds have held for countless generations, but the overlords still yearn to break free and reclaim the world above.",
+										"As long as the overlords are bound by the Silver Flame, they can't physically manifest in the world. But each overlord embodies a particular aspect of evil, which grows in strength as their servants scheme to unleash their ancient masters. The overlords gain strength when mortals embrace the dark paths laid down for them. And as they grow stronger, they gain more influence.",
+										"Approximately thirty overlords are bound in Khyber. One is described here: Tol Kharash, the Horned King. Tol Kharash remains imprisoned and can't take physical form. The stat block provided here reflects the abilities of an avatar Tol Kharash could manifest if he was partially released from his bonds.",
+										{
+											"type": "entries",
+											"name": "Immortal Nature",
+											"entries": [
+												"An overlord doesn't require air, food, drink or sleep. It also can't die permanently. Within 24 hours of its death, an overlord will reform in its heart demiplane in Khyber."
+											]
+										}
+									]
+								},
+								{
 									"type": "section",
 									"name": "Tol Kharash, the Horned King",
 									"page": 209,
 									"entries": [
-										""
+										"When a team of Korranberg scholars studied the region that is now Droaam, they concluded that the Horned King revered in the region was an interpretation of the Rak Tulkhesh, the Rage of War. They were mistaken. Both are spirits of war. But for Rak Tulkhesh, bloodshed and aggression are a goal in and of themselves. For Tol Kharash\u2014the Horned King\u2014war is just the means to an end. The Horned King is an overlord of tyranny and oppression, taking joy in the suffering of the conquered and the cruelty of the conquerors; he delights in mortals inflicting suffering on their own kin.",
+										"Tol Kharash can take any form, but his preferred avatar is that of a massive armored minotaur, flesh hidden beneath steel plates. Rusting, broken weapons are embedded in his armor, tokens of defeated foes. The Horned King crushes hopes, and those who see him must fight the urge to grovel or flee.",
+										{
+											"type": "entries",
+											"name": "Destroyer of Hope",
+											"entries": [
+												"Tol Kharash drives the strong to oppress the weak. His essence is bound to the warped tower now known as Turakbar's Fist, and it seeps out into the surrounding lands. The minotaur clans of the region have been shaped by his power for countless generations, and the chib culture that flourished in the Barrens is a reflection of his influence. The efforts of the Daughters of Sora Kell have curbed his power in the region, but he cannot be driven from Turakbar's Fist. Around the Fist, the strong feel the urge to revel in their power, to prove their might and take what they desire\u2014while people who are peaceful by nature find themselves more easily cowed, afraid to challenge aggression. Player characters can resist these passive effects. But when an adventurer is in a place where Kharash's influence is strong, the DM might occasionally ask them questions... Why do you let that wizard tell you what to do? Why do you let them laugh at you? Why don't you take what you deserve? Most likely, an adventurer will recognize these as the alien thoughts that they are... but the thoughts still linger, and provide a sense of the quiet corrupting power of Tol Kharash. People already driven to aggression\u2014such as the minotaurs of the region, the Gaa'aram orcs and fiend-touched gnolls\u2014can find these impulses especially hard to resist. However, unlike Rak Tulkhesh, the Horned King doesn't crave chaotic bloodshed. As people fall deeper under his sway they will be drawn to follow the strongest servant of Kharash. Thus, in the present day, both Rhesh Turakbar and Breggan Blackcrown have amassed a force of loyal, ruthless followers\u2014all unwittingly being driven by the power of the Horned King, urged to serve the would-be conquerors."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Demonglass Horde",
+											"entries": [
+												"Tol Kharash has relatively few fiendish minions. He has no immortal prakhutu, and no representatives among the Lords of Dust. What the Horned King does have is demonglass. Kharash himself is imprisoned in the demonglass tower of Turakbar's Fist. But many members of his fiendish host were trapped in smaller shards of demonglass. Some have been turned into tools or weapons, fiendish power fueling powerful enchantments. Most cultists of Tol Kharash have a small shard of demonglass embedded in their body, turning them into Demonglass Warriors. Demonglass Champions carry larger shards that grant greater powers, but over time the fiend in the shard eats away at the mortal within, turning them into a hollow one serving as a puppet for the fiend."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The King's Prison",
+											"entries": [
+												"Tol Kharash is bound by the Silver Flame, and he has no army of rakshasa studying the Draconic Prophecy and uncovering a path for his release. However, the nature of his prison gives him considerable power over the region around Turakbar's Fist even while he remains imprisoned\u2014and there may be ways for him to increase that influence. The first obvious path is for servants that bear his demonglass shards to conquer in his name; the wider his dominion, the more power he gains. Beyond this, there are two paths that could allow Tol Kharash to walk the world. The first is to create a proper vessel\u2014a mortal who can serve as his hollow one. He has planted his seeds in two mortals in the modern age: Rhesh Turakbar and Breggan Blackcrown. Tol Kharash needs these vessels to grow in power\u2014both personal power and authority, becoming conquerors and embodying his ideals. It's up to the DM to decide exactly what steps would be involved in this, but it would definitely involve amassing a powerful army and conquering a region. Rhesh Turakbar would need to challenge the Daughters of Sora Kell, while Breggan would have to stake her claim as the descendant of Breggor Firstking and forge a new kingdom of the lost on the frontier. Beyond this, the vessel would have to embed more demonglass in their body, and undergo other rituals that would strengthen their flesh... but they could do this without knowing the deadly road they're on. Breggan could truly believe she's gaining the power she needs to challenge Droaam and Breland, not knowing she's becoming the anchor for an overlord. Ultimately, if one of these vessels follows the path, Tol Kharash would be able to manifest through them\u2014creating an avatar with the statistics presented here. The mortal would still remain, and if that mortal died, the avatar would be destroyed. A second way Tol Kharash could be freed would be if the region itself was pulled deeper into his prison. By planting demonglass anchors in critical locations and performing the proper rituals, a piece of Droaam could be drawn into Khyber... allowing fiends to manifest freely, and Tol Kharash himself to rise from Turakbar's Fist. Once this had been completed, there would be no simple way to reverse it; it would take something as dramatic as Tira Miron's sacrifice to channel the Silver Flame to undo this damage. With either of these plots, Rhesh Turakbar would be a willing pawn who seeks to unleash the Horned King upon the world\u2014while Breggan Blackcrown doesn't realize that she's a pawn in an overlord's schemes, and believes her ambitions are hers alone."
+											]
+										}
 									]
 								}
 							]
@@ -6954,11 +8108,175 @@
 							"page": 212,
 							"entries": [
 								{
+									"type": "entries",
+									"entries": [
+										"Rhesh Turakbar is the infamous warlord of Turakbar's",
+										"Fist, feared and despised by Brelish settlers",
+										"throughout the Western Frontier. He is a powerful",
+										"minotaur warrior, and his physical might is enhanced",
+										"by his devotion to the Horned King. Guided by the",
+										"overlord, Rhesh Turakbar is a brutal tyrant and a",
+										"deadly foe.",
+										{
+											"type": "entries",
+											"name": "Warlord of Droaam. During the Last War, Rhesh",
+											"entries": [
+												"Turakbar personally led countless raids against",
+												"Orcbone and Brelish settlements along the Border",
+												"Road. Any adventurer with roots in the frontier may",
+												"have lost friends or family to Turakbar's reavers\u2014or",
+												"narrowly escaped death at his hands. With the end",
+												"of open hostilities, Turakbar has pulled his forces",
+												"back to the Fist and plays the role of warlord rather",
+												"than reaver. As warlord, Turakbar is responsible for",
+												"maintaining order in the region around Turakbar's",
+												"Fist. His reavers patrol the land, but Turakbar wishes",
+												"to be feared even by his subjects. He maintains",
+												"order, indeed\u2014by making a brutal example of anyone",
+												"who challenges the Daughters or Turakbar himself.",
+												"Some of the villages under his watch are minotaur",
+												"communities; others are primarily goblins or kobolds",
+												"with a few minotaur overseers. Either way, each",
+												"village has a chib that answers to Turakbar\u2014and he",
+												"will often challenge chibs to test their might, killing",
+												"and replacing any who prove to be too weak by his",
+												"standards. There is no question that Rhesh Turakbar",
+												"is maintaining order, as is the duty of a warlord.",
+												"But where elsewhere in Droaam the Daughters are",
+												"working to unite the different species and cultures",
+												"of the region and to give their people hope, Rhesh",
+												"Turakbar still rules through fear."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fist of the Horned King. Turakbar's Fist is an",
+											"entries": [
+												"artifact of the Horned King, charged with the power",
+												"of Tol Kharash. The Daughters of Sora Kell gave",
+												"Turakbar the title of warlord, but he earned Rhesh on",
+												"his own by slaying the previous ruler of the Fist and",
+												"claiming its power. Turakbar's horns are engraved with",
+												"sigils that bind him to the Horned King, so that the",
+												"power of the Fist flows through his blood. Turakbar",
+												"can sense the fears of creatures around him, a gift",
+												"he uses to intimidate his enemies and undermine his",
+												"rivals. Adventurers facing Rhesh Turakbar can feel the",
+												"fiendish power flowing through him\u2014feel that he is a",
+												"vessel for something ancient and terrifying. Because",
+												"of his size and physical might, it is easy for people to",
+												"underestimate Turakbar's intelligence. But the warlord",
+												"is no fool. He may choose to be reckless in battle, but",
+												"he is a cunning strategist with keen instincts. However,",
+												"as a vessel for the Horned King there are limits on his",
+												"behavior, much as a paladin follows an oath. Turakbar",
+												"cannot willingly show fear or weakness, and he must",
+												"always look for weakness in others and spread fear",
+												"where he can.",
+												"Rhesh Turakbar is not immortal. He's not one of",
+												"the Lords of Dust; he's a minotaur champion who's",
+												"laid claim to a terrifying power, and who now has to",
+												"be a brutal tyrant to hold onto that power. A DM could",
+												"choose to play up Turakbar's role as a willing vessel of",
+												"the overlord's spirit. In this case, his power could grow",
+												"even as his personality melts away, leaving a sliver of",
+												"Tol Kharash cloaked in what's left of Turakbar's flesh.",
+												"On the other hand, a DM who wants more complexity",
+												"could say that Rhesh Turakbar knows this is happening",
+												"and is afraid of it\u2014he doesn't want to be a puppet of",
+												"Tol Kharash, but he is in too deep and sees no way to",
+												"escape that fate."
+											]
+										}
+									]
+								},
+								{
 									"type": "section",
 									"name": "Turakbar's Reavers",
 									"page": 212,
 									"entries": [
-										""
+										"Bands of reavers roam the lands around Turakbar's Fist. Those to the west of the Border Road are technically servants of the appointed warlord, maintaining order as instructed by the Daughters of Sora Kell. If they encounter easterners in the region, they will typically challenge them, questioning the business of the adventurers and possibly demanding a \"toll for safe passage\"\u2014a tax for Turakbar's diligent work maintaining the peace. What such reavers want most of all is to generate fear and to assert authority; both of these things are like strong drink for a demonglass warrior of Tol Kharash. Challenging the reavers can result in violence. On the other hand, travelers who truly feel no fear and who demonstrate strength\u2014typically, by making strong Intimidation checks\u2014will be left in peace.",
+										"Reavers to the west of the road maintain order; as soon as they are on the road, they disrupt it. Reavers may attack caravans, or cross the road and raid Brelish villages. These attacks are swift and brutal, but usually not as deadly as they could be. The primary objective is to sow fear and to make the settlers feel weak and helpless; this is what delights the Horned King. They would rather leave wounded survivors to carry the scars and haunting memories of the attack than to actually drive settlers from the border. They are ruthless and will kill if they are posed with a serious threat, but Turakbar's reavers prefer to inflict trauma rather than just kill their foes.",
+										"Turakbar's reavers are a blend of minotaurs, ogres, Gaa'aram orcs, shifters, and gnolls who embrace their fiendish spirits. Almost all of them are embedded with small shards of demonglass, making them Demonglass Warriors; the leader of a squad will have one or more of the Demonglass Champion traits. They typically travel in small, swift groups that can quickly disappear into the Barrens. They can't carry much plunder, but they are more interested in sowing fear than gathering gold.",
+										"The Turakbar's Reavers table provides a few examples of champions who might lead a band of reavers, while the Reavers Missions table gives ideas for what a squad of reavers might be up to when adventurers encounter them.",
+										{
+											"type": "table",
+											"caption": "Turakbar's Reavers",
+											"page": 213,
+											"colLabels": [
+												"d6",
+												"Reaver"
+											],
+											"colStyles": [
+												"col-1 text-center",
+												"col-11"
+											],
+											"rows": [
+												[
+													"1",
+													"Byraka. A minotaur with silver-white fur, Byraka is known as the Bloody Ghost. She has the Devil's Sight and Wrath of the Horned King traits. (Minotaur, she/her)"
+												],
+												[
+													"2",
+													"Ghwyyr. A former Znir hwyri, Ghwyyr now serves the Horned King and is chief shaman of Turakbar's Fist. (Gnoll Warlock of the Fiend, he/him)"
+												],
+												[
+													"3",
+													"Hakaar. Once a Tharashk hunter, Hakaar delights in playing with her prey and takes special pleasure in killing Sentinel Marshals. (Half-orc Assassin, she/her)"
+												],
+												[
+													"4",
+													"Grimtongue. The greatest wizard of the region, Grimtongue has carved chains hanging from his horns and is devoted to Tol Kharash. (Minotaur Mage, he/him)"
+												],
+												[
+													"5",
+													"Nol Avesh. A warrior who served Rhesh Turakbar's predecessor, Nol knows all the secret paths in Turakbar's Fist. (Shifter Spy, he/him)"
+												],
+												[
+													"6",
+													"Hogra the Old. While physically old, this ogress is a hollow one channeling a Horned Devil\u2014one of the most powerful weapons in Turakbar's arsenal. (Ogre Berserker, she/her)"
+												]
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Turakbar's Missions",
+											"page": 213,
+											"colLabels": [
+												"d6",
+												"Mission"
+											],
+											"colStyles": [
+												"col-1 text-center",
+												"col-11"
+											],
+											"rows": [
+												[
+													"1",
+													"Reaving. This squad is looking for blood and will leap at any excuse to fight."
+												],
+												[
+													"2",
+													"Intimidation. The group has been sent to spread fear. They won't kill if it can be avoided, but they will cause pain and suffering in pursuit of their goals."
+												],
+												[
+													"3",
+													"Fury's Fangs. This team is acting as the hand of Droaamite justice, pursuing a condemned criminal."
+												],
+												[
+													"4",
+													"Shadow's Eyes. These reavers have been dispatched by Rhesh Turakbar to investigate a possible threat or crime."
+												],
+												[
+													"5",
+													"Bloody Revel. This squad recently completed a raid; they are still bloody and carrying their plunder."
+												],
+												[
+													"6",
+													"Nothing To See. These reavers have been sent on a peaceful mission. They could be serving as couriers, picking up supplies, escorting a mystic to a ritual site, or something similar."
+												]
+											]
+										}
 									]
 								}
 							]
@@ -6968,7 +8286,15 @@
 							"name": "Steel Horse",
 							"page": 215,
 							"entries": [
-								""
+								"In the early days of the Last War, King Kason ir'Wynarn of Breland became fascinated with the idea of a construct cavalry—a force of soldiers mounted on tireless steel horses. House Cannith helped to make these dreams reality. The cost has kept these constructs from replacing flesh and blood mounts, but they can still be found across the Five Nations. In Breland, an industrial artificer named Ogon Dolas has taken a particular interest in steel horses and has produced a number of custom mounts for nobles and celebrities; the Lord of Blades is also believed to be producing steel horses in the Mournlands. Steel horse is the common name for this type of construct, as Cannith's original designs mimicked the shape of a horse, but Dolas' designs often have more exotic shapes; an equine appearance isn't required."
+							]
+						},
+						{
+							"type": "section",
+							"name": "Stoneborn",
+							"page": 215,
+							"entries": [
+								"A stoneborn creature is a creation of the daelkyr Orlassk. The most common stoneborn creatures are pre-existing statues that are animated by the power of the Still Lord; any mundane statue could potentially become a stoneborn. However, stoneborn creatures can also emerge spontaneously, forming from mud or clay. The level of precision varies based on the source of the statue; it could be a perfect duplicate of a creature carved from stone, or lumpy and flawed."
 							]
 						},
 						{
@@ -6976,6 +8302,64 @@
 							"name": "Stone Cultists",
 							"page": 216,
 							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"Stone Cultists are humanoids whose connection to",
+										"the daelkyr Orlassk has altered them, causing flesh",
+										"to partially transform into stone. Stone Cults always",
+										"have some sort of tie to Orlassk, though it's not always",
+										"obvious what that is. Sometimes the locus of this",
+										"influence is a location\u2014a hidden altar carved long",
+										"ago, a vein of blood-red corrupted khyber shards, a",
+										"pulsing heart formed from quickstone. Other cults",
+										"are affected by something small that can be moved",
+										"around\u2014an idol of quickstone, a mask that fuses to the",
+										"face of the wearer and transforms them into a Stone",
+										"Speaker. Some cultists are ultimately transformed",
+										"into creatures of animate stone, like gargoyles; others",
+										"eventually become inanimate statues, paying a terrible",
+										"price for their devotions.",
+										{
+											"type": "entries",
+											"name": "Served by the Stone. Cultists begin as fully organic",
+											"entries": [
+												"humanoids, but over time their flesh changes, and they",
+												"become Stone Listeners and Stone Speakers. They are",
+												"often found in the company of Quickstone Gargoyles",
+												"or Stoneborn creatures. Sometimes these creatures",
+												"emerge fully formed from the source of Orlassk's",
+												"influence; in other cults, the Stone Speaker sculpts",
+												"statues that come to life. In rare instances, a stone cult",
+												"may have ties to dolgaunts, dolgrims, or dolguuls."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lost in the Stone. While they are tied to the daelkyr",
+											"entries": [
+												"Orlassk, many stone cults are wildly deluded about the",
+												"source of their powers. Stone cults often begin with",
+												"people who work closely with stone\u2014miners, sculptors,",
+												"masons, and people in similar professions. Some",
+												"cultists hear the earth whispering to them, making",
+												"promises or threats. Others dream of treasures hidden",
+												"deep below the surface. The Stone Cult Motivations",
+												"table provides ideas to work with. Keep in mind that",
+												"Stone cultists are delusional, and typically cannot",
+												"be swayed from their beliefs by logic. However, if the",
+												"source of Orlassk's influence can be destroyed or",
+												"disenchanted, it may be possible to save the cultists.",
+												"Stone cultists are typically neutral evil because of",
+												"the influence of Orlassk; they lack empathy and won't",
+												"hesitate to kill at the bidding of the Stone. However,",
+												"cultists may have periods in which this influence fades",
+												"and their alignment shifts; if so, they won't remember",
+												"actions they took while under the influence of the stone."
+											]
+										}
+									]
+								},
 								{
 									"type": "section",
 									"name": "Stone Listener",
@@ -6999,7 +8383,9 @@
 							"name": "Tribex",
 							"page": 218,
 							"entries": [
-								""
+								"The tribex is a quadrupedal herbivore native to Khorvaire. While they were originally only found in the Talenta Plains and the western barrens of Breland, human settlers quickly domesticated the tribex, and they are now found throughout the Five Nations. Plains Tribex are the original form of the beast; they are large and powerful, and are usually found hauling heavy loads or being raised as livestock. Over the course of centuries, House Vadalis magebred two additional forms of tribex: the Riding Tribex and the War Tribex, both designed to serve as mounts. While slower than a horse, the riding tribex possesses tremendous endurance and is remarkably sure-footed. In most parts of the Five Nations horses and tribex can be found side by side, but in Breland riding tribex are the mount of choice.",
+								"The tribex draws its name from the bone plate that projects from its head, complete with three horns. The horns of the plains tribex sweep back over its head. The riding tribex has shorter horns that project forward, while the war tribex has longer, forward- facing horns. All tribex have hooves and tufted tails. Tribex typically have pelts marked with three vertical stripes in shades of brown, black, blue, or white; however, Vadalis magebreeders have produced tribex with more exotic patterns or coloration.",
+								"Tribex are peaceful and patient, but that patience can also manifest as obstinance; in Breland, it's common to say that someone is stubborn as a tribex. They aren't easily spooked, and plains tribex will charge an enemy if threatened."
 							]
 						},
 						{
@@ -7007,12 +8393,14 @@
 							"name": "Nonplayer Characters",
 							"page": 219,
 							"entries": [
+								"This section includes statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter on the Western Frontier. These stat blocks can be used to represent both human and nonhuman NPCs, and can be customized using the methods suggested in the Monster Manual.",
 								{
 									"type": "section",
 									"name": "Sentinel Marshal",
 									"page": 219,
 									"entries": [
-										""
+										"Sentinel Marshals are the pride of House Deneith. A Marshal on the frontier could be pursuing a fugitive that's seeking to shelter in Droaam, or they might be encountered as an elite bodyguard protecting a merchant or important emissary.",
+										"Sentinel Marshals are among the best the Blademarks Guild has to offer: they are dedicated to their work, and not easily swayed by taunts, vices, or other distractions."
 									]
 								},
 								{
@@ -7028,7 +8416,13 @@
 									"name": "Wandslinger",
 									"page": 221,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"source": "FoEQuickstone",
+											"name": "Wandslinger",
+											"page": 221
+										}
 									]
 								},
 								{
@@ -7036,7 +8430,13 @@
 									"name": "Westwind Rider",
 									"page": 221,
 									"entries": [
-										""
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"source": "FoEQuickstone",
+											"name": "Westwind Rider",
+											"page": 221
+										}
 									]
 								}
 							]
@@ -7050,12 +8450,6 @@
 					"entries": [
 						""
 					]
-				},
-				{
-					"type": "section",
-					"name": "Chapter 3: Quickstone",
-					"page": 109,
-					"entries": []
 				}
 			]
 		}
@@ -8192,7 +9586,7 @@
 						"type": "external",
 						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/gargoyle.webp"
 					},
-					"credit": "Optional Artist Credit"
+					"credit": "Carolina Cesario"
 				}
 			]
 		},
@@ -8202,8 +9596,7 @@
 			"entries": [
 				"Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.",
 				"Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family."
-			],
-			"images": []
+			]
 		},
 		{
 			"name": "Harpy",
@@ -8212,7 +9605,16 @@
 				"Harpies blend avian and human elements, possessing functional wings and birdlike legs ending in clawed feet. But the most remarkable feature of a harpy is their voice. Arcane power flows through a harpy and into their words, allowing them to manipulate emotions and to charm even the most hardened of hearts. While there are always exceptions, most harpies are passionate and energetic; the power of their song reflects their own surging emotions. Most enjoy the freedom of flight, expressing themselves through sound and motion.",
 				"The passionate nature of the harpy is reflected in their devotion to family, friends, and causes. Some of the harpy flights of Droaam are the most loyal allies of the Daughters of Sora Kell, while others stubbornly oppose their plans for Droaam. When creating a harpy character, think about their driving passion and pursue it fiercely."
 			],
-			"images": []
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "external",
+						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/harpy.webp"
+					},
+					"credit": "Júlio Azevedo"
+				}
+			]
 		},
 		{
 			"name": "Medusa",
@@ -8224,13 +9626,40 @@
 			"images": []
 		},
 		{
+			"name": "Tiefling (Eberron)",
+			"source": "FoEQuickstone",
+			"entries": [
+				"Tieflings are rarely seen in the Five Nations, and are often treated with fear and suspicion when they are. Rather than being directly descended from fiends, the most common tieflings of Eberron are touched by the malefic energies of one of the planes. Because of this, their appearance varies dramatically. Mabaran tieflings are reminiscent of incubi and succubi, with sinister beauty and small horns and fangs. Shavaran tieflings have scaly skin and horns of steel, while Risian tieflings are coated in frost and have horns of ice. Others don't have horns at all. Dolurrhi tieflings usually have gray skin and pale eyes, with tendrils of whispering mist clinging to their skin. Kythrian tieflings slowly change in appearance, with every aspect changing in time. Such plane-touched tieflings don't pass these traits on to their children; the birth of a tiefling is tied to the flow of planar energies, most often occurring when a child is conceived in a manifest zone at a key point in a plane's coterminous cycle. Tieflings are only created by the malefic influence of a plane, and there are no tieflings tied to Daanvi, Irian, Lamannia, or Syrania, or Thelanis. Popular stories say that tieflings are cursed and that they draw the negative powers of the plane wherever they go; while this is largely just superstition, it can make life difficult for tieflings.",
+				"Planar tieflings don't pass their traits to their offspring, which is why tieflings are rare in the Five Nations. But there are two other types of tiefling in Khorvaire. The Sakah are said to be descended from rakshasa, fiends who infused their immortal essence into mortal bloodlines. In their natural form, they have feline features with fiendish aspects\u2014burning eyes, backward hands, disturbing fangs\u2014that set them apart from shifters. Most of the Sakah are in the Demon Wastes, but some capable Sakah serve as agents of the Lords of Dust in the wider world. The final source of tieflings are the noble bloodlines of the Venomous Demesne. The Demesne tieflings are the result of fiendish bargains made long ago by the mages of Ohr Kaluun. Demesne tieflings should use the Infernal, Chthonic, or Abyssal legacies as presented in the Player's Handbook. Planar and Sakah tieflings should use one of the Fiendish Legacies presented in the Eberron Fiendish Legacies table. All other traits for Planar and Sakah tieflings are the same as those in the Player's Handbook."
+			],
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "external",
+						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/tiefling.webp"
+					},
+					"credit": "Júlio Azevedo"
+				}
+			]
+		},
+		{
 			"name": "Warforged",
 			"source": "FoEQuickstone",
 			"entries": [
 				"Warforged are constructed humanoids, designed by skilled artificers and infused with the spark of life. Though they are made of wood and metal, warforged can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.",
 				"Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, and stone. Armored plates form a protective outer shell; this armor can be changed and removed, but it's rare for this to be done. The warforged of Eberron share a common facial design, with a hinged jaw, crystal eyes, and a unique sigil engraved on the reinforced forehead. Beyond these common elements, the precise design of a warforged will vary depending on the purpose for which it was designed."
 			],
-			"images": []
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "external",
+						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/warforged.webp"
+					},
+					"credit": "Bad Moon Art Studio"
+				}
+			]
 		},
 		{
 			"name": "Worg",
@@ -8239,7 +9668,16 @@
 				"While sometimes mistaken for large wolves, worgs are a unique species of canid predator possessing keen intelligence and the power of speech. Worg senses are sharper than those of humans, and they feel a deep connection to the natural world; they delight in scents and sounds that others around them may not even notice. The worgs of the Watching Wood are devoted to the Devourer and the Fury, and this faith encourages them to rely on their instincts and intuition, as well as taking joy in the hunt and strengthening their pack.",
 				"The worgs of the Watching Wood are more compact than some other strains of the species. They are Medium creatures, though they can pull heavy loads and carry a Medium creature as a rider. While they have no hands and typically have little interest in material goods, the smiths of Maenya's Fist have developed specialized armor for worgs, along with Steel Jaws that strengthen a worg's bite and which can be enchanted like any other weapon."
 			],
-			"images": []
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "external",
+						"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/FoEQuickstone/worg.webp"
+					},
+					"credit": "Júlio Azevedo"
+				}
+			]
 		}
 	],
 	"subrace": [
